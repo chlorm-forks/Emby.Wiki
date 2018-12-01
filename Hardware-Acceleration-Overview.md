@@ -21,7 +21,7 @@ API for video encoding and decoding acceleration using Nvidia GPUs
 
 ## Linux
 
-Emby supports the following [hardware acceleration variants on Linux](Hardware_Acceleration_Linux)
+Emby supports the following [hardware acceleration variants on Linux](Hardware-Acceleration-on-Linux)
 
 - **Nvidia NVDEC & NVENC**  
 API for video encoding and decoding acceleration using Nvidia GPUs
