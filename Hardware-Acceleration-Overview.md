@@ -2,7 +2,7 @@ Emby supports a broad range of hardware accelerated video transcoding methods on
 
 ## Windows
 
-Emby supports the following [hardware acceleration variants on Windows](Hardware_Acceleration_Windows)
+Emby supports the following [hardware acceleration variants on Windows](Hardware Acceleration on Windows)
 
 - **Nvidia NVDEC & NVENC**  
 API for video encoding and decoding acceleration using Nvidia GPUs
