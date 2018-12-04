@@ -100,7 +100,7 @@ and that not all hardware devices will support all accelerations.
 
 ##### Intel
 
-(coming soon)
+The latest Intel drivers are included with Emby server.
 
 ##### AMD
 
