@@ -135,15 +135,24 @@ and that not all hardware devices will support all accelerations.
 #### Hardware Requirements
 Quick Sync was initially built into some Sandy Bridge CPUs, but not into Sandy Bridge Pentiums or Celerons.  
 An overview of acceleration capabilities built into the various CPU generations
-can be found here: [Hardware decoding and encoding](https://en.wikipedia.org/wiki/Intel_Quick_Sync_Video#Hardware_decoding_and_encoding).
-and here [GPU Acceleration Capabilities](https://en.wikipedia.org/wiki/Intel_Graphics_Technology#Capabilities_(GPU_video_acceleration)).
+can be found under the following links: 
+
+- [Driver Support Matrix for Intel® Media SDK and OpenCL™](https://software.intel.com/en-us/articles/driver-support-matrix-for-media-sdk-and-opencl)
+- [Hardware decoding and encoding](https://en.wikipedia.org/wiki/Intel_Quick_Sync_Video#Hardware_decoding_and_encoding).
+- [GPU Acceleration Capabilities](https://en.wikipedia.org/wiki/Intel_Graphics_Technology#Capabilities_(GPU_video_acceleration)).
 
 #### Required Setup Steps
 
-(coming soon)
+The steps for installing the Intel Media SDK may vary depending on your actual system. Please follow the instructions appropriate for your actual setup which you can find here:
+
+- [Getting Started Guide](https://software.intel.com/en-us/download/intel-media-server-studio-driver-sdk-for-linux-getting-started-guide)  
+- [Generic Installation for Intel® Media Server Studio](https://software.intel.com/en-us/articles/generic-installation-for-intel-media-server-studio)  
+- [Generic Linux* Intel® Media Server Studio Installation](https://software.intel.com/en-us/articles/how-to-setup-media-server-studio-on-secondary-os-of-linux)  
+- [System Analyzer Utility for Linux](https://software.intel.com/en-us/articles/mss-sys-analyzer-linux)  
 
 #### Further Reading
 [Intel QuickSync Video](https://www.intel.com/content/www/us/en/architecture-and-technology/quick-sync-video/quick-sync-video-general.html)  
+[Driver Support Matrix for Intel® Media SDK and OpenCL™](https://software.intel.com/en-us/articles/driver-support-matrix-for-media-sdk-and-opencl)  
 [Codec Support by CPU Generation](https://en.wikipedia.org/wiki/Intel_Quick_Sync_Video#Hardware_decoding_and_encoding)  
 [GPU Acceleration Capabilities](https://en.wikipedia.org/wiki/Intel_Graphics_Technology#Capabilities_(GPU_video_acceleration))  
 
