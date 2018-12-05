@@ -32,3 +32,13 @@ Video Acceleration API for Linux is supported by several device manufacturers
 - **Intel QuickSync Video**  
  Intel's brand for its dedicated video encoding and decoding hardware 
  core
+
+## Android
+
+Emby supports the following [hardware acceleration variants on Android](Hardware-Acceleration-on-Android)
+
+- **Android MediaCodec**  
+MediaCodec is Android's integrated API for video de- and endoding. 
+
+- **OpenMax**  
+OpenMax is an API specification covering various aspects of media acceleration. On Android it is the standard API for codec implementations while applications are typically using MediaCodec
