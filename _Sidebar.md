@@ -46,6 +46,7 @@
 * [Overview](Hardware-Acceleration-Overview)
 * [Windows](Hardware-Acceleration-on-Windows)
 * [Linux](Hardware-Acceleration-on-Linux)
+* [Android](Hardware-Acceleration-on-Android)
 
 ### Users
 
