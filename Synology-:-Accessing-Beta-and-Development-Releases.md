@@ -20,4 +20,4 @@ The reason for not making the beta releases via the default package source is as
  
 `The repository 'https://synology.emby.media/' will only serve up stable builds, regardless of the beta flag's setting. This is the URL that will be in the public domain and thus make it impossible for 'end users' to end up with a dev or beta release on their systems.`
 
-[>> Back to Synology : Help and Support <<](Synology----Help-and-Support)
+[>> Back to Synology : Help and Support <<](Synology-:-Help-and-Support)
