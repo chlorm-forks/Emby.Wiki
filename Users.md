@@ -10,10 +10,10 @@ The Emby Server setup wizard will create a user with administrative access. This
 
 ![](images/server/users1.png)
 
-A local user will be displayed with a cloud if it is linked to [Emby Connect](Emby%20Connect). 
+A local user will be displayed with a cloud if it is linked to [Emby Connect](Emby-Connect). 
 ![](images/server/users6.png)
 
-Linking a user to Emby Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Emby Connect](Emby%20Connect).
+Linking a user to Emby Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Emby Connect](Emby-Connect).
 
 ## Adding a User
 
@@ -57,15 +57,15 @@ Disabling user preference access will prevent a user from changing their profile
 
 ## Content Access
 
-See [Content Access](Content%20Access).
+See [Content Access](Content-Access).
 
 ## Device Access
 
-See [Device Access](Device%20Access).
+See [Device Access](Device-Access).
 
 ## Parental Controls
 
-See [Parental Controls](Parental%20controls).
+See [Parental Controls](Parental-controls).
 
 ## User Password
 

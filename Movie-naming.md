@@ -1,4 +1,4 @@
-This file naming guide applies to movies, home videos and music videos. For tv episode naming, see [TV naming](TV%20naming).
+This file naming guide applies to movies, home videos and music videos. For tv episode naming, see [TV naming](TV-naming).
 
 ### Library Setup
 
@@ -177,15 +177,15 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 ## 3D videos
 
-3D video files are supported. See [3D videos](3D%20Videos).
+3D video files are supported. See [3D videos](3D-Videos).
 
 ## Media stubs
 
-Media stubs are supported. See [media stubs](Media%20stubs).
+Media stubs are supported. See [media stubs](Media-stubs).
 
 ## Strm files
 
-Strm files are supported. See [strm files](Strm%20files).
+Strm files are supported. See [strm files](Strm-files).
 
 ## Subtitles
 
@@ -193,7 +193,7 @@ Subtitles are supported. See [subtitles](Subtitles).
 
 ## Theme songs & videos
 
-Theme songs & videos are supported. See [theme songs & videos](Theme%20songs%20&%20videos).
+Theme songs & videos are supported. See [theme songs & videos](Theme-songs-&-videos).
 
 ## Trailers
 

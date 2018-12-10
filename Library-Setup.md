@@ -4,9 +4,9 @@ Setting up the library is handled within the startup wizard and also within the 
 
 It's important to first prepare your media. See other sections of the wiki for more information:
 
-* [Movie naming](Movie%20naming)
-* [TV naming](TV%20naming)
-* [Music naming](Music%20naming)
+* [Movie naming](Movie-naming)
+* [TV naming](TV-naming)
+* [Music naming](Music-naming)
 * [Subtitles](Subtitles)
 
 ### Library Setup Page
@@ -47,7 +47,7 @@ To add a library path, click the + button. A popup will be displayed allowing yo
 
 By allowing Emby apps direct access to media folders on the server, they may be able to play them directly over the network and avoid using server resources to stream and transcode. Network Paths can help achieve this by mapping a path on the server to a network path that can be accessed by other devices.
 
-To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
+To learn more, see [Optional Network Paths](Optional-Network-Paths).
 
 ## Enable real-time monitoring
 

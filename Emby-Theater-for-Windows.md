@@ -1,6 +1,6 @@
 Emby Theater for Windows is a Windows Modern app, built for Windows 7, 8 and 10 and Vista. Emby Theater can be download from  here: [Emby Theater](http://emby.media/emby-theater.html). Since Emby Theater is an native Windows app, it allows support for a much wider support for codecs and formats, this enables direct play support for almost all of your video files.
 
-######To be able to take full advantage of all that Emby Theater for Windows has to offer you will need an valid Emby Premiere key, read more here: [Emby Premiere](https://emby.media/premiere.html) 
+###### To be able to take full advantage of all that Emby Theater for Windows has to offer you will need an valid Emby Premiere key, read more here: [Emby Premiere](https://emby.media/premiere.html) 
 
 * Emby Theater for Windows can be used alongside remote control from either your phone or web browser so that Emby Theater is ideal for an HTPC connected to your media center.
 * Emby Theater for Windows can play just about any type of media thanks to Emby Server transcoding, however since this is on a Windows platform chances are you will be using direct play most of the time. If you would like to learn how to prepare your media for Direct Play, read below.

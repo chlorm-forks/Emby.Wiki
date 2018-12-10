@@ -35,7 +35,7 @@ Amazon Alexa is a cloud-based voice service, so it is always getting smarter. As
 The Emby Skill enables users to get information about and control playback of their media library on any Emby compatible device. Once you have succesfully linked your Emby account to Alexa, you can start playing your favorite movies, TV shows on your devices with your voice.
 
 ## Get started  
-The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby%20Connect) to link your Emby account to Alexa. Emby with Alexa also requires [Emby premiere](https://emby.media/premiere.html). 
+The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby-Connect) to link your Emby account to Alexa. Emby with Alexa also requires [Emby premiere](https://emby.media/premiere.html). 
 
 Alexa requests are sent from outside your network. You will need to ensure your Emby server is accessible remotely. 
 
@@ -48,7 +48,7 @@ In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/sp
 
 ![Skills screenshot](https://emby.media/community/uploads/inline/4388/58fd8d3a8680b_Instructions_small.jpg)
 #### My server is not available to be selected, what do I do?
-If you don't have an Emby account, follow the steps [here](Emby%20Connect), otherwise:
+If you don't have an Emby account, follow the steps [here](Emby-Connect), otherwise:
 1. In your server dashboard, Users > Select the Emby user with Emby connect (green cloud icon)
 2. Remove the username or email from the Emby connect field, hit save.
 3. Re-add the information to recreate the Emby connect link.
