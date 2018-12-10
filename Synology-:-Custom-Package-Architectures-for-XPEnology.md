@@ -28,4 +28,4 @@ __Need Help?__
 
 Don't worry if you don't know what type of processor you have or don't see your processor architecture listed, take a look at the forum post above and drop us a line on the forum.
 
-[>> Back to Synology : Help and Support <<](Synology-:-Help-and-Support)
+[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
