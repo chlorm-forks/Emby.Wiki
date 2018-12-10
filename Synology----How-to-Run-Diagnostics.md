@@ -20,4 +20,4 @@ __Example__
 
 ![Synology : How to Run Diagnostics](images/synology/Synology-How-to-Run-Diagnostics.png "Synology : How to Run Diagnostics")
 
-[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
+[>> Back to Synology : Help and Support <<](Synology----Help-and-Support)
