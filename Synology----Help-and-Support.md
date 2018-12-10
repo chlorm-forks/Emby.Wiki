@@ -2,18 +2,18 @@
 
 * [Summary of Models by Processor](Synology----Summary-of-Models-by-Processor)
 
-* [Setting Up Your Media Library Share](../wiki/Synology----Setting-Up-Your-Media-Library-Share)
+* [Setting Up Your Media Library Share](Synology----Setting-Up-Your-Media-Library-Share)
 
-* [A Few Important Points to Consider](../wiki/Synology----A-Few-Important-Points-to-Consider)
+* [A Few Important Points to Consider](Synology----A-Few-Important-Points-to-Consider)
 
-* [How to Send us Support Logs](../wiki/Synology----How-to-Send-us-Support-Logs)
+* [How to Send us Support Logs](Synology----How-to-Send-us-Support-Logs)
 
-* [How to Run Diagnostics](../wiki/Synology----How-to-Run-Diagnostics)
+* [How to Run Diagnostics](Synology----How-to-Run-Diagnostics)
 
-* [Notes on Package Updates](../wiki/Synology----Notes-on-Package-Updates)
+* [Notes on Package Updates](Synology----Notes-on-Package-Updates)
 
-* [Accessing Beta and Development Releases](../wiki/Synology----Accessing-Beta-and-Development-Releases)
+* [Accessing Beta and Development Releases](Synology----Accessing-Beta-and-Development-Releases)
 
-* [Migrating From the Community Package](../wiki/Synology----Migrating-From-the-Community-Package)
+* [Migrating From the Community Package](Synology----Migrating-From-the-Community-Package)
 
-* [Custom Package Architectures for XPEnology](../wiki/Synology----Custom-Package-Architectures-for-XPEnology)
+* [Custom Package Architectures for XPEnology](Synology----Custom-Package-Architectures-for-XPEnology)
