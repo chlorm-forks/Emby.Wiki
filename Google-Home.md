@@ -39,7 +39,7 @@ Emby connect is used to provide your server information to Google Home over a se
 #### Google Home account linking
 The first time you invoke Emby Home, you will be asked to link your Emby account. Enter your Emby connect credentials and select your server. This will enable the skill and work across all your Google Home devices linked to your Google Account.
 
-You can link or unlink your Emby account using the google assistant app or [here](https://assistant.google.com/services/a/uid/000000b6334db7e5?hl=en).
+You can link or unlink your Emby account using [here](https://assistant.google.com/services/a/uid/000000b6334db7e5?hl=en).
 ![](https://i.imgur.com/lzbeWj0.png)
 
 
