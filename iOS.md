@@ -1,6 +1,6 @@
 Emby for iPhone and iPad is available in the [Apple App Store](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8).
 
-Emby for iPhone and iPad can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). If you would like to learn how to prepare your media for Direct Play, read below.
+Emby for iOS can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). If you would like to learn how to prepare your media for Direct Play, read below.
 
 # Setup Guide
 
@@ -8,11 +8,9 @@ Install the app using one of the above methods, then use the startup wizard to c
 
 # Direct Play Media Formats
 
-* Video — H.264/AVC/HEVC (.MP4, .MOV, .M4V)
-* Subtitles - SRT and other text-based formats
+* Video — m4v,3gp,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,m2v,avi,mpg,mpeg,mp4,webm
+* Subtitles - srt,vobsub,pgs,ssa,ass,sub,vtt
 * Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,flac
-
-In many cases, even when direct play is not possible, a simple audio-only conversion can be performed without having to convert the video. 
 
 # Best Practices for Direct Play
 
