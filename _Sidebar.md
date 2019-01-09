@@ -100,6 +100,7 @@
 * [Membership Options](What-Emby-Premiere-membership-options-are-there)
 * [Feature Matrix](Emby-Premiere-Feature-Matrix)
 * [How do I get my key?](How-is-the-Emby-Premiere-key-delivered-to-me)
+* [Is my Emby Premiere key still valid with Emby 4.0?](Is-My-Emby-Premiere-Key-Still-Valid-with-Emby-4.0)
 * [What if I lose my key?](What-if-I-lose-my-Emby-Premiere-key)
 * [My Emby Key Says it is Invalid or Missing](https://github.com/MediaBrowser/Wiki/wiki/My-Emby-Key-Says-it-is-Invalid-or-Missing)
 * [How do I upgrade my membership?](How-do-I-upgrade-my-Emby-Premiere-membership)
