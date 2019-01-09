@@ -24,6 +24,7 @@
 * [Library setup](Library-Setup)
 * [Optional Network Paths](Optional-Network-Paths)
 * [Server settings](Server-Settings)
+* [Log Files](Log-Files)
 * [Auto-Organize](Auto-Organize)
 * [Camera upload](Camera-upload)
 * [Channels](Channels)
