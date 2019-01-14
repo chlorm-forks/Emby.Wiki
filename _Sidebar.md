@@ -42,6 +42,10 @@
 * [Open Subtitles](Open-Subtitles)
 * [Secure Your Server](Secure-Your-Server)
 
+### Emby 4.0 Migration
+
+* [New Folder-based Access Control](New-Folder-based-Access-Control)
+
 ### Hardware Acceleration
 
 * [Overview](Hardware-Acceleration-Overview)
