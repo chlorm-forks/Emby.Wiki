@@ -8,15 +8,16 @@ Important points to remember:
 
 * Very few users actually require more device support than the standard license.
 * The limit applies only to Emby Premiere features so only apps that utilize those features will count towards the limit.
+* The limit is a device limit NOT a concurrent connection limit.
 * The limit is tied to an Emby Premiere key, not a server so, if your key is in use on more than one server, then the limit will apply across all of them cumulatively.
 
 ## So how do I determine if the limit will be okay for me?
 
-Look at the [Feature Matrix](Emby-Premiere-Feature-Matrix) and note the features you use that are NOT in the "Free" column.  Count the number of devices your users will use for just those features.
+Look at the [Feature Matrix](Emby-Premiere-Feature-Matrix) and note the features you use that are NOT in the "Free" column.  Count the number of devices your users will use for just those features.  Even if this count is near the 15 limit, we suggest you just try the normal license for a month of typical usage by your users and see if it works for you (it does for almost everyone).  Your server will show if you are close to or over the limit.
 
 ## How long does a device count towards my limit?
 
-The system tracks device usage for about a week.  So you need to count only devices used regularly by your users when estimating the limit for you.
+The system tracks device usage for about a week.  So you need to count only devices used regularly by your users when estimating the limit for you.  It is important to understand this is a device access limit NOT a concurrent connection limit.  
 
 ## How do I "knock" a device off the list?
 
