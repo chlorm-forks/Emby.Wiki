@@ -11,7 +11,7 @@ To get an idea of what merged libraries are and how to effectively use them let�
 * Kids Shows – J:\TV Shows\Kids Shows
 * Shows – J:\TV Shows\Shows
 
-##Setup the Library
+## Setup the Library
 
 What we are going to do is create ONE library called “TV Shows” that contains these 7 folders.  We’ll do this the normal way by selecting LIBRARY from the administration web panel. We should then be presented with the following:
 
@@ -31,7 +31,7 @@ Now the last thing we need to do to have a working “TV Show” library is to a
 
 All that is left to do is click the OK button to create the library (click it).  NOTE: You may configure other library options including advanced options but they are beyond the scope of this example.
 
-##Configure Permissions
+## Configure Permissions
 
 Now that we have our new TV Shows library setup, it’s time to configure access permission to this library.  Here is where the power of Merged Libraries comes into play.  We are going to set access permission for our fictitious “JohnDoe” user and then we’ll show permissions for “JaneDoe” & “ChildDoe”.  This will show how easy it is to have one master TV Show library but give different access to different parts depending on what content they are interested in or what content you as the administrator want them to have.
 
@@ -51,7 +51,7 @@ If we wanted “JohnDoe” to only have access to Anime, Cartoons, Shows & Sport
 
 Once you’re happy with the library selections just click SAVE at the bottom of the page in the right panel!
 
-##Providing Different "views" for Different Users
+## Providing Different "views" for Different Users
 
 You can use this access control to provide different views of the same library just like merged libraries before.  For example, imagine “JaneDoe” isn’t interested in any type of cartoons, kids shows or sports but very much likes News, Reality TV and Talk Shows as well as the normal collection of Shows.
 
