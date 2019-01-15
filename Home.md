@@ -1,6 +1,6 @@
 ![](wiki/images/logo/logo96.png)
 
-Emby is a free and open source personal media server. It is built with a number of other popular open source technologies. To download Emby, visit:
+Emby is a free personal media server. It is built with a number of popular open source technologies. To download Emby, visit:
 
 http://emby.media/
 
