@@ -155,9 +155,9 @@ The minumum required software version is:
 ``Note: Support for headless mode is planned for the future``
 
 #### Further Reading
-[AMD Advanced Media Framework](https://gpuopen.com/gaming-product/advanced-media-framework/)
-[AMF SDK](https://github.com/GPUOpen-LibrariesAndSDKs/AMF)
-[AMD Drivers & Support](https://www.amd.com/en/support)
+[AMD Advanced Media Framework](https://gpuopen.com/gaming-product/advanced-media-framework/)  
+[AMF SDK](https://github.com/GPUOpen-LibrariesAndSDKs/AMF)  
+[AMD Drivers & Support](https://www.amd.com/en/support)  
 
 ## Microsoft DXVA
 DirectX Video Acceleration (DXVA) is an Microsoft API for using hardware 
