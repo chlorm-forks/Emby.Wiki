@@ -7,9 +7,9 @@ In most cases, the server and the apps will automatically select the ideal setti
 Every Emby app will have a setting known as "Max streaming bitrate". This is the most important setting to configure within the app that you're trying to use, and will have the greatest effect on image quality. As you increase the bitrate quality will improve, but will require a faster connection between the device and server.
 
 **Ineligible formats for transcode**
-* [Dvd and Blu-ray](Movie%20naming#dvd-and-blu-ray)
-* [ISOs](Movie%20naming#isos)
-* [3D videos](Movie%20naming#3d-videos)
+* [Dvd and Blu-ray](Movie-naming#dvd-and-blu-ray)
+* [ISOs](Movie-naming#isos)
+* [3D videos](Movie-naming#3d-videos)
 
 # Server Settings
 
@@ -67,13 +67,13 @@ If the file is not natively supported, transcoding will be required.
 
 To learn more about the formats that are natively supported by each Emby app, please visit the wiki section for that app:
 
-* [Amazon Fire TV](Fire%20TV)
-* [Android Mobile](Android%20Mobile)
-* [Android TV](Android%20TV)
+* [Amazon Fire TV](Fire-TV)
+* [Android Mobile](Android-Mobile)
+* [Android TV](Android-TV)
 * [Chromecast](Chromecast)
 * [iOS](iOS)
 * [Roku](Roku)
-* [Web Client](Web%20Client)
+* [Web Client](Web-Client)
 
 ## My Files Shouldn't Be Transcoding. How Do I Report This?
 

@@ -1,27 +1,27 @@
 # Emby with Google Home
 
-1. [What is Google Home?](Google%20Home#what-is-google-home)
-2. [Get started](Google%20Home#get-started)
-    * [Why is Emby connect required?](Google%20Home#why-is-emby-connect-required)
-    * [Google Home account linking](Google%20Home#google-home-account-linking)
-    * [My server is not available to be selected](Google%20Home#my-server-is-not-available-to-be-selected-what-do-i-do)
-3. [Commands](Google%20Home#commands)
-    * [How to use Google Home](Google%20Home#how-to-use-google-home)
-    * [Select a player](Google%20Home#which-player)
-    * [Additional users](Google%20Home#additional-users)
-    * [Navigation](Google%20Home#navigation)
-    * [Playback](Google%20Home#playback)
-    * [Media playback](Google%20Home#media-playback)
-    * [Suggestion to watch](Google%20Home#suggestions)
-    * [Play random content](Google%20Home#play-random-content)
-    * [Play random music](Google%20Home#play-random-music)
-    * [Recently added](Google%20Home#recently-added)
-    * [Next up](Google%20Home#next-up)
-    * [Continue playing](Google%20Home#continue-playing)
-    * [Item modification](Google%20Home#item-modification)
-    * [Help with commands](Google%20Home#help)
-4. [Change Emby connect account](Google%20Home#change-your-emby-connect-account)
-5. [Frequently asked questions](Google%20Home#FAQs)
+1. [What is Google Home?](Google-Home#what-is-google-home)
+2. [Get started](Google-Home#get-started)
+    * [Why is Emby connect required?](Google-Home#why-is-emby-connect-required)
+    * [Google Home account linking](Google-Home#google-home-account-linking)
+    * [My server is not available to be selected](Google-Home#my-server-is-not-available-to-be-selected-what-do-i-do)
+3. [Commands](Google-Home#commands)
+    * [How to use Google Home](Google-Home#how-to-use-google-home)
+    * [Select a player](Google-Home#which-player)
+    * [Additional users](Google-Home#additional-users)
+    * [Navigation](Google-Home#navigation)
+    * [Playback](Google-Home#playback)
+    * [Media playback](Google-Home#media-playback)
+    * [Suggestion to watch](Google-Home#suggestions)
+    * [Play random content](Google-Home#play-random-content)
+    * [Play random music](Google-Home#play-random-music)
+    * [Recently added](Google-Home#recently-added)
+    * [Next up](Google-Home#next-up)
+    * [Continue playing](Google-Home#continue-playing)
+    * [Item modification](Google-Home#item-modification)
+    * [Help with commands](Google-Home#help)
+4. [Change Emby connect account](Google-Home#change-your-emby-connect-account)
+5. [Frequently asked questions](Google-Home#FAQs)
 
 ### What is Google Home?  
 Google Home is a powerful speaker and voice Assistant. Play your music. Call your friends. Ask it questions. Control your home. It's your own Google, always ready to help.
@@ -29,7 +29,7 @@ Google Home is a powerful speaker and voice Assistant. Play your music. Call you
 The Emby Skill enables users to get information about and control playback of their media library on any Emby compatible device. Once you have succesfully linked your Emby account to Google Home, you can start playing your favorite movies, TV shows on your devices with your voice.
 
 ## Get started  
-The first step is to add Emby to your Google Home account by following the [steps here](https://support.google.com/googlehome/answer/7126338?co=GENIE.Platform%3DAndroid&hl=en) and searching for the Emby home app within actions (this is not a home control app). Once this is done, you will need [Emby Connect](Emby%20Connect) to link your Emby account to Google Home. Emby home also requires [Emby premiere](https://emby.media/premiere.html). 
+The first step is to add Emby to your Google Home account by following the [steps here](https://support.google.com/googlehome/answer/7126338?co=GENIE.Platform%3DAndroid&hl=en) and searching for the Emby home app within actions (this is not a home control app). Once this is done, you will need [Emby Connect](Emby-Connect) to link your Emby account to Google Home. Emby home also requires [Emby premiere](https://emby.media/premiere.html). 
 
 Google Home requests are sent from outside your network. You will need to ensure your Emby server is accessible remotely. 
 
@@ -39,8 +39,12 @@ Emby connect is used to provide your server information to Google Home over a se
 #### Google Home account linking
 The first time you invoke Emby Home, you will be asked to link your Emby account. Enter your Emby connect credentials and select your server. This will enable the skill and work across all your Google Home devices linked to your Google Account.
 
+You can link or unlink your Emby account [here](https://assistant.google.com/services/a/uid/000000b6334db7e5?hl=en).
+![](https://i.imgur.com/lzbeWj0.png)
+
+
 #### My server is not available to be selected, what do I do?
-If you don't have an Emby account, follow the steps [here](Emby%20Connect), otherwise:
+If you don't have an Emby account, follow the steps [here](Emby-Connect), otherwise:
 1. In your server dashboard, Users > Select the Emby user with Emby connect (green cloud icon)
 2. Remove the username or email from the Emby connect field, hit save.
 3. Re-add the information to recreate the Emby connect link.

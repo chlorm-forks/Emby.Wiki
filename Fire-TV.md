@@ -7,7 +7,7 @@ Emby for Fire TV can handle just about any type of media thanks to Emby Server t
 Install the app using one of the above methods, the app will then automatically find your local Emby Server(s).  If it cannot find your server or you are attempting to connect to a remote server, the app will present you with options to connect manually or use Emby Connect.
 
 ## Direct Play Media Formats
-Video — m4v,3gp,ts,mpegts,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,m2v,avi,mpg,mpeg,mp4,webm 
+Video — m4v,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,mp4,webm Note: The exact containers and codecs that will direct play depends on both the exact version of Fire TV and the audio equipment it is connected to (and the type of connection - e.g. HDMI, optical, etc.). 
 Subtitles - srt,vobsub,ssa,pgs,pgssub,ass,sub,vtt 
 Audio – flac,aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,ac3 (Dolby Digital)
 ## Best Practices for Direct Play

@@ -1,8 +1,7 @@
 # Emby with Amazon Alexa
-_The skill for German is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
+[Emby skill](https://skills-store.amazon.com/deeplink/dp/B07F8VC9F9?deviceType=app&share&refSuffix=ss_copy) Available in English US, UK, Canada, Australia, India  
+_The skill in German and French is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
 
-[Emby skill (US)](https://www.amazon.com/Emby/dp/B071GP8C3F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511836893&sr=1-1&keywords=emby)  
-[Emby skill (UK)](https://www.amazon.co.uk/Emby/dp/B071GP8C3F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511836813&sr=1-1&keywords=emby)
 
 1. [What is Alexa?](Alexa#what-is-alexa)
 2. [Get started](Alexa#get-started)
@@ -12,6 +11,7 @@ _The skill for German is being worked on. This page will be updated when the ski
 3. [Training Alexa](Alexa#training-alexa)
 3. [Commands](Alexa#commands)
     * [How to use Alexa](Alexa#how-to-use-alexa)
+    * [Playback on Alexa](Alexa#using-alexa-as-a-player)
     * [Select a player](Alexa#which-player)
     * [Select an Emby user](Alexa#which-emby-user)
     * [Additional users](Alexa#additional-users)
@@ -28,7 +28,6 @@ _The skill for German is being worked on. This page will be updated when the ski
     * [Help with commands](Alexa#help)
 4. [Change Emby connect account](Alexa#change-your-emby-connect-account)
 5. [Frequently asked questions](Alexa#FAQs)
-4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
 Amazon Alexa is a cloud-based voice service, so it is always getting smarter. Ask Alexa to play music, hear the news, check weather, control your smart home, and more.
@@ -36,7 +35,7 @@ Amazon Alexa is a cloud-based voice service, so it is always getting smarter. As
 The Emby Skill enables users to get information about and control playback of their media library on any Emby compatible device. Once you have succesfully linked your Emby account to Alexa, you can start playing your favorite movies, TV shows on your devices with your voice.
 
 ## Get started  
-The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby%20Connect) to link your Emby account to Alexa. Emby with Alexa also requires [Emby premiere](https://emby.media/premiere.html). 
+The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby-Connect) to link your Emby account to Alexa. Emby with Alexa also requires [Emby premiere](https://emby.media/premiere.html). 
 
 Alexa requests are sent from outside your network. You will need to ensure your Emby server is accessible remotely. 
 
@@ -49,7 +48,7 @@ In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/sp
 
 ![Skills screenshot](https://emby.media/community/uploads/inline/4388/58fd8d3a8680b_Instructions_small.jpg)
 #### My server is not available to be selected, what do I do?
-If you don't have an Emby account, follow the steps [here](Emby%20Connect), otherwise:
+If you don't have an Emby account, follow the steps [here](Emby-Connect), otherwise:
 1. In your server dashboard, Users > Select the Emby user with Emby connect (green cloud icon)
 2. Remove the username or email from the Emby connect field, hit save.
 3. Re-add the information to recreate the Emby connect link.
@@ -76,14 +75,25 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 
 ## Commands
 ### How to use Alexa
-* Every command needs to start with: **Alexa, tell/ask Emby to {insert command}.**
-* Alternatively, you can start an Emby session with: **Alexa, start/begin/open Emby.**  
+* Every command needs to start with: **Alexa, tell/ask m. b. home to {insert command}.**
+* Alternatively, you can start an Emby session with: **Alexa, start/begin/open m. b. home.**  
 _The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity (when the blue ring of your Alexa device fades)._
 * You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
-* To direct a command to a specific player, append **on {player name}** to the end of your command.
-* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel.
+* To direct a command to a specific player, append **on another player** or **on {player name}** to the end of your command.
+* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel, playlist.
 * **Parts of commands in parenthesis given below are optional**
+
+### Using Alexa as a player
+Audio playback is supported at this time. This feature requires your server to be secured with ssl encryption. Refer to [this guide](Secure-Your-Server) if you need help. Self-signed certificates are not supported for this.
+
+​Ask m. b. home to play music. Specify "on this player" or "on Alexa" at the end of your request to skip the player selection. Once [music playback](Alexa#media-playback) is initiated with the skill, you can use these controls (notice you don't invoke m. b. home):
+* Alexa, Next
+* Alexa, Previous
+* Alexa, Pause
+* Alexa, Resume
+* Alexa, start over
+* Alexa, loop (This is to repeat the currently playing item. Loop off to turn off)
 
 #### Which player?
 You can set a player as default. If a device/player name is not included at the end of your command, it will be automatically directed at your default player.
@@ -111,7 +121,7 @@ You can navigate your interface by saying the movement or action related to what
 * show/display/bring up the context menu/TV guide/search/player menu (osd)/settings
 
 #### Playback
-* pause, previous, next, play (the selected content), **stop playback**
+* pause, previous, next, play (the selected content), **stop or stop playback**
 * set the volume (to {percent})
 * change the audio (to {language})
 * change/enable/disable subtitles
@@ -145,14 +155,15 @@ Reply to the suggestion with a yes or a no.
 
 #### Play random content
 * play something
-* play a ({genre}) movie
+* play a movie (genre {Genre})
 * play an episode of {series}
 * play **a few** episodes
+* play next up
 
 #### Play random music
 * drop the beat
-* put on some ({genre}) music
-* play ({genre}) songs
+* put on some music (genre {Genre})
+* play songs (genre {Genre})
 * play songs by {Artist}
 * play songs from the album {Album}
 
@@ -170,7 +181,8 @@ Reply to the suggestion with a yes or a no.
 * what (show/movie/audio book) was I in the middle of?
 
 #### Item modification
-* add {content type, i.e. movie} {title} to my favorites
+* remove {title} from my favorites
+* add ({content type, i.e. movie}) {title} to my favorites
 * I love the {media type, i.e. music video} {music video}
 * set/mark {media type, i.e. movie} {title} as watched/unwatched
 
@@ -198,14 +210,9 @@ You can easily replace the Emby connect account linked to Alexa. First, you will
 
 ### FAQs
 - **Alexa can't find any players.**  
-    Make sure your Emby player is up and running under the same Emby user Alexa is connected to. At this time, playing on the Alexa device is not supported.
-- **Why can't I play on the Alexa device directly?**  
-    Amazon Alexa requires content to be accessed over a secured connection. At this time, this option has not yet been implemented. Once it is, only Emby servers using HTTPS will be able to use this feature.
-
-### AWS Server status  
-http://status.aws.amazon.com/  
-**North America**: AWS Lambda (N. Virginia)  
-**Europe**: AWS Lambda (Ireland)
+    Make sure your Emby player is up and running under the same Emby user Alexa is connected to.
+- **My title is recognized with the wrong words?**
+    That's what happens with voice control. Correct the title [here](https://goo.gl/forms/SnruVeWIBFyufxZr1). 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>

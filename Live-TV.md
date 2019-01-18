@@ -9,7 +9,7 @@ Out of the box, Emby Server currently supports the following TV Tuners:
 
 * [HDHomerun Network Tuner](HDHomerun)
 * Hauppauge TV Tuners (on Emby Server for Windows)
-* [M3U files (or urls)](M3U%20Tuners). See examples of m3u files at http://xmtvplayer.com/build-m3u-file
+* [M3U files (or urls)](M3U-Tuners). See examples of m3u files at http://xmtvplayer.com/build-m3u-file
 
 Support for additional tuners can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
@@ -19,8 +19,8 @@ In most cases, Emby Server will automatically discover your HDHomerun on your ne
 
 Out of the box, Emby Server currently supports the following TV Guide data sources:
 
-* [Schedules Direct](Schedules%20Direct)
-* [Xml TV](Xml%20Tv)
+* [Schedules Direct](Schedules-Direct)
+* [Xml TV](Xml-Tv)
 
 Support for additional sources can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
