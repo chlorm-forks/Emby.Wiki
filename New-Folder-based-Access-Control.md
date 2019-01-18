@@ -15,19 +15,19 @@ To get an idea of what merged libraries are and how to effectively use them let�
 
 What we are going to do is create ONE library called “TV Shows” that contains these 7 folders.  We’ll do this the normal way by selecting LIBRARY from the administration web panel. We should then be presented with the following:
 
-![Library](https://emby.media/resources/Library.png)
+![Library](images/server/Library.png)
 
 Select "Add Media Library" to get to this:
 
-![Library](https://emby.media/resources/Library2.png)
+![Library](images/server/Library2.png)
 
 We will now select the content type from the drop down menu of “TV Shows” and we will also use the default library name of “TV Shows”. You can change this name to anything you want.
 
-![Library](https://emby.media/resources/Library3.png)
+![Library](images/server/Library3.png)
 
 Now the last thing we need to do to have a working “TV Show” library is to add each of the parent folder mount points shown above for this example. We do this by clicking on the + (plus sign) next to the word “Folders” above.  Once we have added each of these parent folders this section will look like this:
 
-![Library](https://emby.media/resources/Library4.png)
+![Library](images/server/Library4.png)
 
 All that is left to do is click the OK button to create the library (click it).  NOTE: You may configure other library options including advanced options but they are beyond the scope of this example.
 
@@ -38,16 +38,16 @@ Now that we have our new TV Shows library setup, it’s time to configure access
 From the administration web panel select the USERS menu on the left.  You will then have a list of users already setup on the system in the right panel.  We will pick “JohnDoe” who we already created.
 In the right panel you will see a menu of choices up top and will want to select ACCESS.  You should then be at a screen that looks similar to this:
 
-![Access](https://emby.media/resources/Access1.png)
+![Access](images/server/Access1.png)
 
 Now for this example instead of granting access to all libraries (top checkbox in the right panel) we want to grant partial access to our new TV Shows library (only library configure on this system).  So we un-check the “Enable access to all libraries” option and have a screen that looks similar to this:
 
-![Access](https://emby.media/resources/Access2.png)
+![Access](images/server/Access2.png)
 
 All we have to do at this point is make sure only the sections we want this user to have access to have a check mark.
 If we wanted “JohnDoe” to only have access to Anime, Cartoons, Shows & Sporting Events the configuration would look like this:
 
-![Access](https://emby.media/resources/Access3.png)
+![Access](images/server/Access3.png)
 
 Once you’re happy with the library selections just click SAVE at the bottom of the page in the right panel!
 
@@ -57,11 +57,11 @@ You can use this access control to provide different views of the same library j
 
 You can tailor her view of the TV Shows library by setting her access as follows:
 
-![Access](https://emby.media/resources/Access4.png)
+![Access](images/server/Access4.png)
 
 Then, you could also have "ChildDoe" and configure them to only see Cartoons and Kid's shows like this:
 
-![Access](https://emby.media/resources/Access5.png)
+![Access](images/server/Access5.png)
 
 So to recap:
 
