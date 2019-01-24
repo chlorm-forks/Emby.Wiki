@@ -118,8 +118,7 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 ```
 
-
-### Dvd and Blu-ray
+### DVD and Blu-ray file formats
 
 Dvd and Blu-ray folder structures are also supported. To be recognized as a dvd structure, the folder must contain either a VIDEO_TS subfolder, or a VIDEO_TS.ifo file. To be recognized as a blu-ray structure, the folder must contain a BDMV subfolder.
 
@@ -135,7 +134,7 @@ Or:
  \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
 ```
 
-### ISOs
+### ISO format
 
 Emby Server has basic support for videos stored in ISO format. This includes the ability to catalog the ISO's within Emby Server, and play them in HTPC-based apps such as Emby for Kodi and Emby for Windows Media Center. Other apps will generally only be able to play them with the use of an external player.
 
