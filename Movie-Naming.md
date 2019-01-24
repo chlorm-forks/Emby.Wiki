@@ -8,6 +8,8 @@ Emby supports several different formats and naming conventions such as ISO copie
 
 A much better way of building a large Emby library of content is to prepare you media ahead of time using a streaming friendly format such as MP4 or MKV containers featuring H.264 (or H.265) video with at least one 2 Channel AAC default audio track along side any other audio tracks such as Dolby Digital or DTS. Media prepared in this fashion will have the greatest compatibility with all Emby clients. The idea behind preparing your media ahead of time in this fashion is to reduce the need for the Server to have to transcode (convert) media on the fly. This is not a requirement but is strongly encouraged.
 
+## Naming your media
+
 Once you've prepared your media files, it's time to name your media in a way that allows Emby the best chance of determining what it is.  The best way to do this is to use the format: "MovieName (year).extension" such as "Top Gun (1986).mp4" or "Avatar (2009).mkv".  Because Emby allows many other advanced functions that can be used with your media we want to create a folder structure that aids in this use.  The simplest method of doing this is to put all media related to a Movie in the same folder using a name "MovieName (year). It will look like this:
 
 ```
@@ -17,6 +19,17 @@ Once you've prepared your media files, it's time to name your media in a way tha
 \Movies\The Usual Suspects (1995)\The Usual Suspects (1995).mkv
 \Movies\Top Gun (1986)\Top Gun (1986).mp4
 ```
+## Complex Folder Structure
+If you plan on having thousands of movies in your library you may want to add an additional folder to your hierarchy to aid in navigation.  For example you could create folders for all movies starting with the first letter or number such as:
+
+```
+\Movies\A\Avatar (2009)\Avatar (2009).mkv
+\Movies\P\Pulp Fiction (1994)\Pulp Fiction (1994).mp4
+\Movies\R\Reservoir Dogs (1992)\Reservoir Dogs (1992).mp4
+\Movies\T\The Usual Suspects (1995)\The Usual Suspects (1995).mkv
+\Movies\T\Top Gun (1986)\Top Gun (1986).mp4
+```
+When viewing your media outside of Emby using conventional tools such as Windows Explorer this allows you to navigate your library much quicker without having to wait for thousands of folders to load.  It saves you from scrolling through thousands of folders to get to your "W" movies for example. Emby will work just fine with or without this additional folder!
 
 ## Multi-version movies
  
