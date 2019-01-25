@@ -64,7 +64,7 @@
 * [Emby Connect Password Reset](Password-Reset)
 
 ### Live TV
-* [Introduction to Live TV and DVR](Introduction-to-Live-TV-and-DVR)
+* [Introduction to Live TV and DVR](Introduction)
 * [Live TV](Live-TV)
 * [Live TV Plugins](Live-TV-Plugins)
 
