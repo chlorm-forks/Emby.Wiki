@@ -8,7 +8,7 @@ Each plugin will provide it's own documentation, including list the tuner hardwa
 
 Live TV Service providers are available in the plugin catalog. 
 
-![](images/server/livetv5.png)
+![live](images/server/livetv5.png)
 
 To browse the catalog, open the server dashboard and navigate to **Plugins** -> **Catalog**.
 
