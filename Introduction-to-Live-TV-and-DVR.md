@@ -9,3 +9,10 @@ Emby supports multiple EPG (Electronic Programming Guide) sources so you can use
 If that wasn’t enough, not only can you mix and match all of this into one easy to use system, but you can also configure which of your users have access.  You determine what users can view Live TV and which of your users can setup Recordings. 
 
 How’s that for a powerful Live TV & DVR solution?
+
+# Overview of Setup
+
+Setup of Live TV can be broken down into a few steps:
+* Configure your TV Tuner(s) or IPTV sources
+* Add TV Guide Data Source
+* Match your channels to Guide Data
