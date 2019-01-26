@@ -1,16 +1,16 @@
-For a simple TV folder structure, the recommended folder layout is Series\Season\Episode or Series\Episode. When setting up the library make sure to select **TV** as the content type.
+For a simple TV folder structure, the recommended folder layout is Series (year)\Season #\Episode or Series (year)\Episode. When setting up the library make sure to select **TV** as the content type.  Having the year in the series name is not strictly mandatory as Emby can usually match a series without it but it helps tremendously with rebooted series and those that have broadcast in different years such as Battlestar Galactica (1978) and Battlestar Galactica (2003).  The year is also very helpful for some series such as Africa (2013) which could potentially match to a few different shows without the year.
 
 For example:
 
 ```
  \TV
-    \Glee
+    \Glee (2009)
        \Season 1
           Glee S01E01.mp4
           Glee S01E02.mp4
 
  \TV
-    \Seinfeld
+    \Seinfeld (1989)
        Seinfeld S01E01.mp4
        Seinfeld S01E02.mp4
 
@@ -25,11 +25,11 @@ For example:
 ```
  \TV
      \A-M
-       \Glee
+       \Glee (2009)
           \Season 1
              Glee S01E01.mp4
      \N-Z
-       \Seinfeld
+       \Seinfeld (1989)
           \Season 1
              Seinfeld S01E01.mp4
 
@@ -47,7 +47,7 @@ To be recognized as a dvd structure, the folder must contain either a VIDEO_TS s
 
 ```
  \TV
-    \Glee
+    \Glee (2009)
        \Season 1
           \Glee S01E01-E04
               \VIDEO_TS
@@ -66,6 +66,8 @@ TV series are supported in mixed content libraries using the Unset content type,
 
 A number of naming conventions are supported:
 
+* show name - S01E01 - Episode Name.ext
+* show name S01E01 Episode Name.ext
 * anything_s01e02.ext
 * anything_s1e2.ext
 * anything_s01.e02.ext
@@ -73,9 +75,9 @@ A number of naming conventions are supported:
 * anything_1x02.ext
 * anything_102.ext
 * anything_1x02.ext
-* 02 Episode Name.avi
-* s01e02.avi
-* 1x02.avi
+* 02 Episode Name.ext
+* s01e02.ext
+* 1x02.ext
 
 ### By date
 
@@ -89,28 +91,28 @@ Common for long-running daily shows, you can also use the date the episode aired
 
 The following conventions are supported:
 
-* 01x02x03 episode name.avi
-* S01x02x03 episode name.avi
-* S01E02E03 episode name.avi
-* S01xE02xE03 episode name.avi
-* S01E02-E03 episode name.avi
-* S01E02-X03 episode name.avi
-* 01x02 01x03 episode name.avi
-* 01x02 - 01x03 episode name.avi
-* 01x02 - x03 episode name.avi
-* S01x02.S01x03 episode name.avi
-* S01x02 - S01x03 episode name.avi
-* show name 01x02x03 episode name.avi
-* show name S01x02x03 episode name.avi
-* show name S01E02E03 episode name.avi
-* show name S01xE02xE03 episode name.avi
-* show name S01E02-E03 episode name.avi
-* show name S01E02-X03 episode name.avi
-* show name 01x02 01x03 episode name.avi
-* show name 01x02 - 01x03 episode name.avi
-* show name 01x02 - x03 episode name.avi
-* show name S01x02.S01x03 episode name.avi
-* show name S01x02 - S01x03 episode name.avi
+* 01x02x03 episode name.ext
+* S01x02x03 episode name.ext
+* S01E02E03 episode name.ext
+* S01xE02xE03 episode name.ext
+* S01E02-E03 episode name.ext
+* S01E02-X03 episode name.ext
+* 01x02 01x03 episode name.ext
+* 01x02 - 01x03 episode name.ext
+* 01x02 - x03 episode name.ext
+* S01x02.S01x03 episode name.ext
+* S01x02 - S01x03 episode name.ext
+* show name 01x02x03 episode name.ext
+* show name S01x02x03 episode name.ext
+* show name S01E02E03 episode name.ext
+* show name S01xE02xE03 episode name.ext
+* show name S01E02-E03 episode name.ext
+* show name S01E02-X03 episode name.ext
+* show name 01x02 01x03 episode name.ext
+* show name 01x02 - 01x03 episode name.ext
+* show name 01x02 - x03 episode name.ext
+* show name S01x02.S01x03 episode name.ext
+* show name S01x02 - S01x03 episode name.ext
 
 ## Specials
 
@@ -124,7 +126,7 @@ For example:
 
 ```
  \TV
-    \Glee
+    \Glee (2009)
        \Season 0
           Glee S00E01.mp4
 
@@ -160,7 +162,7 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 ```
  \TV
-    \Glee
+    \Glee (2009)
        backdrop.ext
        backdrop1.ext
        backdrop2.ext
@@ -187,7 +189,7 @@ For example:
 
 ```
  \TV
-    \Glee
+    \Glee (2009)
        season01-poster.jpg
        season-specials-poster.jpg
        season01-fanart.jpg
@@ -212,7 +214,7 @@ For example:
 
 ```
  \TV
-    \Glee
+    \Glee (2009)
        \Season 1
           Glee S01E01.mp4
           Glee S01E01-thumb.jpg
