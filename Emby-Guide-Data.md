@@ -10,8 +10,8 @@ Click the PLUS SIGN next to TV Guide Data Providers.
 
 ![gracenote1](images/server/gracenote1.png)
 
-Select your Country (United State, Candar or United Kingdom)
-Select Emby Guide Data as the guide source.
-Click Next
+* Select your Country (United State, Canada or United Kingdom)
+* Select Emby Guide Data as the guide source.
+* Click Next
 
 ![gracenote2](images/server/gracenote2.png)
