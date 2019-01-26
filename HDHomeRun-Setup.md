@@ -37,6 +37,6 @@ http://192.168.100.23/lineup.html
 
 Note this is the IP of the tuner as configure above in the example.  Once in the channel lineup screen it will look similar to this with your channels listed.
 
-![hdhomerun-favorites.png.png](images/server/hdhomerun-favorites.png.png)
+![hdhomerun-favorites.png.png](images/server/hdhomerun-favorites.png)
 
 In this picture anything with the yellow star is marked as a favorite and used by the channel import above.  You can use the other two options which are unselected (blank) or X as status for your own use.  X would be disabled channels.  Blank could be channels you haven’t decided yet.  This is a really useful way to filter your channel list.  Many cable providers deliver both HD and SD versions of the same channels.  Using this method you can only favorite the HD channels.  You can easily ignore (not favorite) channels in foreign languages, shopping channels, infomercial channels or any other channel you wish to not have Emby load.
