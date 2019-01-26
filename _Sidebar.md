@@ -65,7 +65,7 @@
 
 ### Live TV
 * [Introduction to Live TV](Introduction-to-Live-TV-and-DVR)
-* [Live TV](Live-TV)
+* [Live TV](Live-TV) (setup)
 * [Live TV Plugins](Live-TV-Plugins)
 
 ### Emby Apps
