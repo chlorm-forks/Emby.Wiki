@@ -1,4 +1,4 @@
-# Overview of Setup
+## Overview of Setup
 
 Setup of Live TV can be broken down into a few steps:
 * Configure your TV Tuner(s) or M3U based IPTV sources
