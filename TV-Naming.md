@@ -66,8 +66,8 @@ TV series are supported in mixed content libraries using the Unset content type,
 
 A number of naming conventions are supported:
 
-*show name - S01E01 - Episode Name.ext
-*show name S01E01 Episode Name.ext
+* show name - S01E01 - Episode Name.ext
+* show name S01E01 Episode Name.ext
 * anything_s01e02.ext
 * anything_s1e2.ext
 * anything_s01.e02.ext
