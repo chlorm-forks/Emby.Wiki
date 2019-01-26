@@ -25,3 +25,9 @@ Select the proper linup from the drop down selection list. In this case we selec
 We have selected to enable this guide data for all tuners in the system.
 
 Click Save.
+
+![gracenote3](images/server/gracenote3.png)
+
+We now see our tuner and our guide data setup. We also see our guide data being loaded by the green progress bar at the bottom.
+
+During part of the this setup, Emby has added a new Scheduled Task to our server which will automatically refresh our guide data every day. This task can be edited like any other task in the system.  We also have the ability to start a manual refresh of guide data by click the Refresh Guide Data button shown in the picture above.
