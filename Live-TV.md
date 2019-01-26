@@ -9,7 +9,7 @@ Setup of Live TV can be broken down into a few steps:
 
 Out of the box, Emby Server currently supports the following TV Tuners:
 
-* [HDHomerun Network Tuner](HDHomerun) (Models available for both OTA and Cable)
+* [HDHomerun Network Tuner](HDHomeRun-Setup) (Models available for both OTA and Cable)
 * Hauppauge TV Tuners (on Emby Server for Windows)
 * [M3U files (or urls)](M3U-Tuners). See examples of m3u files at http://xmtvplayer.com/build-m3u-file
 
