@@ -26,15 +26,3 @@ Out of the box, Emby Server currently supports the following TV Guide data sourc
 * [Xml TV](Xml-Tv)
 
 Support for additional sources can be added by installing a [Live TV Plugin](Live-TV-Plugins).
-
-## Manual Refresh Guide Data
-
-There is also the ability to manually refresh Guide data. This is normally run automatically and it is generally not needed for manual use, but it is provided here as a convenience.
-
-![livetv2.png](images/server/livetv2.png)
-
-## Settings
-
-The **Settings** tab allows you to configure how many days of guide data to download and display. More guide data provides a richer experience but may increase loading times.
-
-![livetv4.png](images/server/livetv4.png)
