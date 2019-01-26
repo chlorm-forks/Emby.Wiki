@@ -29,16 +29,14 @@ For this example using a Quatro we will enable the restriction of favorite chann
 
 ![hdhomerun5.png](images/server/hdhomerun5.png)
 
+## HDHomeRun Favorite Setup
 
+In order to make use of favorites with your HDHomeRun tuner you need to set this up outside of Emby.  You do this by opening the built in web app on your tuner in a web brower and then selecting the Channel Lineup menu option.  You can also just type the URL into your brower which will look similar to this:
 
-Emby has native support for Silicon Dust HDHomeRun Network Tuners. Unlike other brands of tuners, HDHomeRun tuners run as standalone devices connected to your network. No need to have open PCI slots available in your server or free USB ports.  Being a standalone device allows you to install these in close proximity to your OTA antenna or cable drop.  As long as you can connect the device to your home Ethernet network you can install them anywhere in your home. Silicon Dust makes both OTA (Over the Air) models as well as Cable Tuners (using a cable card) to Receive DRM free digital cable subscription channels.
+http://192.168.100.23/lineup.html
 
-In most cases, Emby can automatically discover your HDHomerun devices on your network with no configuration required. You can also manually setup a tuner as well. Simply open the server dashboard, navigate to Live TV, then click Add underneath tuner devices.
+Note this is the IP of the tuner as configure above in the example.  Once in the channel lineup screen it will look similar to this with your channels listed.
 
-![livetvtuneradd.png](images/server/livetvtuneradd.png)
+![hdhomerun-favorites.png.png](images/server/hdhomerun-favorites.png.png)
 
-On the HD Homerun setup screen, you'll need to enter the IP Address of your HDHomerun Network Tuner.
-
-![hdhomerunsetup.png](images/server/hdhomerunsetup.png)
-
-There are also additional options, such as the ability to allow hardware video transcoding by the tuner, if it supports that. In most cases, trusting the default settings will be the best option.
+In this picture anything with the yellow star is marked as a favorite and used by the channel import above.  You can use the other two options which are unselected (blank) or X as status for your own use.  X would be disabled channels.  Blank could be channels you haven’t decided yet.  This is a really useful way to filter your channel list.  Many cable providers deliver both HD and SD versions of the same channels.  Using this method you can only favorite the HD channels.  You can easily ignore (not favorite) channels in foreign languages, shopping channels, infomercial channels or any other channel you wish to not have Emby load.
