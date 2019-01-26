@@ -27,13 +27,7 @@ Out of the box, Emby Server currently supports the following TV Guide data sourc
 
 Support for additional sources can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
-## Live TV Status
-
-The status of your tv tuners is also displayed in the server dashboard by navigating to **Live TV**.
-
-![livetv3.png](images/server/livetv3.png)
-
-In addition, the reset button next to each tuner will allow you to reset the tuner as needed for troubleshooting.
+## Manual Refresh Guide Data
 
 There is also the ability to manually refresh Guide data. This is normally run automatically and it is generally not needed for manual use, but it is provided here as a convenience.
 
