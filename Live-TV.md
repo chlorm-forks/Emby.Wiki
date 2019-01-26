@@ -21,7 +21,7 @@ In most cases, Emby Server will automatically discover your HDHomerun on your ne
 
 Out of the box, Emby Server currently supports the following TV Guide data sources:
 
-* [Emby Guide Data](Emby Guide Data)  (United States, Canada and United Kingdom)
+* [Emby Guide Data](Emby-Guide-Data)  (United States, Canada and United Kingdom)
 * [Schedules Direct](Schedules-Direct)
 * [Xml TV](Xml-Tv)
 
