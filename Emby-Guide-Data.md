@@ -11,12 +11,17 @@ Click the PLUS SIGN next to TV Guide Data Providers.
 ![gracenote1](images/server/gracenote1.png)
 
 Select your Country (United State, Canada or United Kingdom)
+
 Select Emby Guide Data as the guide source.
+
 Click Next
 
 ![gracenote2](images/server/gracenote2.png)
 
-Enter our Postal Code
+Enter our Postal Code.
+
 Select the proper linup from the drop down selection list. In this case we selected our local over the air (OTA) lineup to match our HDHomeRun/antenna setup.
+
 We have selected to enable this guide data for all tuners in the system.
+
 Click Save.
