@@ -40,4 +40,8 @@ External subtitles can be marked as forced using either ".forced" or ".foreign".
 * sub/idx
 * vtt
 
-Subtitles can be downloaded from [Open Subtitles](Open-Subtitles).
+## Plugins that automate subtitle downloading
+[Open Subtitles](Open-Subtitles).
+Podnapisi
+SubDb
+See [Plugins](Plugins) for more information on use.
