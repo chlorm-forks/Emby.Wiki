@@ -3,7 +3,7 @@
 Setup of Live TV can be broken down into a few steps:
 * Configure your TV Tuner(s) or M3U based IPTV sources
 * Add TV Guide Data Source(s)
-* Match your Channel Lineup to Guide Data
+* Match your Channel Lineup to Guide Data (Channel Mapping)
 
 ## Configure Your TV Tuner
 
@@ -28,4 +28,5 @@ Out of the box, Emby Server currently supports the following TV Guide data sourc
 Support for additional sources can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
 ## Match your Channel Lineup to Guide Data
-Being add currently.  Check back in a few hours (1/26/2019)
+The final step of setting up Live TV is matching the tuner's stations to the Guide Data you have setup.
+[Live TV Channel Mapping](Live-TV-Channel-Mapping)
