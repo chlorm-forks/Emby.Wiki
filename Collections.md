@@ -59,4 +59,4 @@ To remove an item, click the 3-dot menu, then select "Remove from Collection".
 ![](images/server/collections5.png)
 
 NOTE: It's important to understand that collections are bound to the location of the media at the time the collection is created.  If you move any media part of a collection or just the library from using UNC to Drive letters or vice versa this will break collections.  You can manually edit or migrate your collections using the following advanced topic.
-[Collections – Manual Migration](Collections-–-Manual-Migration)
+* [Collections – Manual Migration](Collections-–-Manual-Migration)
