@@ -1,4 +1,4 @@
-You can access Emby Server Log files from the dashboard UI by navigating to **Help** >> **Logs** and view them in a browser window.
+You can access Emby Server Log files from the dashboard UI by navigating to **Logs** under the Expert menu.  You will see a list of log files on the right.  Click on one to open it in the web browser.
 
 The physical location of log files is displayed on the dashboard main page in the **Paths** section.
 
