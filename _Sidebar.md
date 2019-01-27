@@ -116,4 +116,4 @@
 * [Multiple servers](Can-I-use-my-Emby-Premiere-key-on-more-than-one-server)
 
 ### Advanced Topics
-* [Collections – Manual Migration](Collections – Manual-Migration)
+* [Collections – Manual Migration](Collections-–-Manual-Migration)
