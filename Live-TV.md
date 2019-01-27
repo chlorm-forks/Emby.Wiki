@@ -29,4 +29,5 @@ Support for additional sources can be added by installing a [Live TV Plugin](Liv
 
 ## Match your Channel Lineup to Guide Data
 The final step of setting up Live TV is matching the tuner's stations to the Guide Data you have setup.
-[Live TV Channel Mapping](Live-TV-Channel-Mapping)
+
+* [Live TV Channel Mapping](Live-TV-Channel-Mapping)
