@@ -67,6 +67,7 @@
 * [Introduction to Live TV](Introduction-to-Live-TV-and-DVR)
 * [Live TV](Live-TV) (setup)
 * [Live TV Plugins](Live-TV-Plugins)
+* [DVR Settings](DVR-Settings)
 
 ### Emby Apps
 * [Apple TV](Apple-TV)
