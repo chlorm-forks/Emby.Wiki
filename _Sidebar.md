@@ -114,3 +114,6 @@
 * [Why is the price different in the App store?](Why-is-the-Emby-Premiere-price-different-in-the-app-stores)
 * [How do I cancel my membership?](How-do-I-cancel-an-Emby-Premiere-subscription)
 * [Multiple servers](Can-I-use-my-Emby-Premiere-key-on-more-than-one-server)
+
+### Advanced Topics
+* [Collections – Manual Migration](Collections – Manual-Migration)
