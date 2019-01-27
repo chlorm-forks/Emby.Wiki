@@ -20,10 +20,10 @@ Tags need be be surrounded be either a space ( ), hyphen -, dot . or underscore 
 Examples:
 
 * moviename (year).3d.hsbs.mkv
-* moviename 3d sbs.mkv
-* moviename.3D-HTAB.mkv
-* moviename-3D.sbs-720p.mkv
-* moviename-3D.mvc.mkv
+* moviename (year) 3d sbs.mkv
+* moviename (year).3D-HTAB.mkv
+* moviename (year)-3D.sbs-720p.mkv
+* moviename (year)-3D.mvc.mkv
 
 ## Identify using older conventions
 
@@ -40,10 +40,10 @@ For example:
 
 ```
 /Movies
-   /300
-     300 [hsbs].mkv
+   /300 (2006)
+     300 (2006) [hsbs].mkv
    /Home Alone (1990)
-     Home Alone [fsbs].mkv
+     Home Alone (1990) [fsbs].mkv
 ```
 
 ## Multiple Versions
@@ -54,11 +54,11 @@ Here's an example of a movie containing multiple versions in a single movie fold
 
 ```
 /Movies
-  /300
-    /300 - 1080p.mkv
-    /300 - 720p.mp4
-    /300 - 3d-hsbs.mp4
-    /300 - 3d.hsbs.mp4
-    /300 - 3d.mvc.mp4
+  /300 (2006)
+    /300 (2006) - 1080p.mkv
+    /300 (2006) - 720p.mp4
+    /300 (2006) - 3d-hsbs.mp4
+    /300 (2006) - 3d.hsbs.mp4
+    /300 (2006) - 3d.mvc.mp4
 
 ```
