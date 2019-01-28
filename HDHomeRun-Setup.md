@@ -4,6 +4,9 @@ In most cases, Emby can automatically discover your HDHomerun devices on your ne
 
 The following guide assumes you have already setup your HDHomeRun on your network and have connected it to your cable or antenna.
 
+Note: If you have an older HDHomeRun model that does not support DLNA or have a built in web server please perform these steps before continuing.
+* [Older HDHomeRun Support](Older-HDHomeRun-Support)
+
 Open the server dashboard and click the Live TV menu option on the left.  If you haven't setup any part of Live TV yet you should have a page that looks like this:
 
 ![hdhomerun1.png](images/server/hdhomerun1.png)
