@@ -26,6 +26,8 @@ You can manually force a refresh of the AutoBoxSets with the **Refresh Box Sets*
 
 ### Trouble Shooting
 
-If movies aren't added to the collection as expected, check that the **TmdbCollectionId** ID for your media and make sure it is correct on [The Movie DB website](https://www.themoviedb.org/). Also check to make sure your media has the same **TmdbCollectionId** set in it's own metadata.
+If movies are not added to the collection as expected, check that the **TmdbCollectionId** ID for your media is correct on [The Movie DB website](https://www.themoviedb.org/). Also check to make sure your media has the same **TmdbCollectionId** set in it's own metadata.  If not try to manually refresh the meta-data on the individual media items you are trying to add to the collection.
 
 Once this is confirmed, you can then manually force a refresh of the AutoBoxSets via the **Refresh Box Sets** button in the AutoBoxSets Plugin configuration page (see above).
+
+
