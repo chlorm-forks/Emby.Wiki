@@ -4,28 +4,28 @@ To install the plugin, click **Plugins** in the side-bar menu of the Emby server
 
 Scroll down to the **General** section of the page, and click on the plugin image.
 
-![](images/plugins/Autoboxsets/AutoBoxSets1.png)
+![AutoBoxSets1.png](images/plugins/Autoboxsets/AutoBoxSets1.png)
 
 Click on **Install**.
 
-![](images/plugins/Autoboxsets/AutoBoxSets2.png)
+![AutoBoxSets2.png](images/plugins/Autoboxsets/AutoBoxSets2.png)
 
 Once install, Emby will inform you that the server needs to be restarted.
 
-![](images/plugins/Autoboxsets/AutoBoxSets3.png)
+![AutoBoxSets3.png](images/plugins/Autoboxsets/AutoBoxSets3.png)
 
 When the server has restarted, click **Plugins** in the side-bar menu of the Emby server dashboard, and select the **My Plugins** tab.
 
-You will see the **AutoBoxSets** plugin listed (along with any other plugins already installed), where you can open the settings page, by clicking on the 3-dot menu.
+You will see the **AutoBoxSets** plugin listed (along with any other plugins already installed), where you can open the settings page, by clicking on the AutoBoxSets artwork to bring up the menu.
 
-![](images/plugins/Autoboxsets/AutoBoxSets4.png)
+![AutoBoxSets4.png](images/plugins/Autoboxsets/AutoBoxSets4.png)
 
 You can manually force a refresh of the AutoBoxSets with the **Refresh Box Sets** button.
  
-![](images/plugins/Autoboxsets/AutoBoxSets5.png)
+![AutoBoxSets5.png](images/plugins/Autoboxsets/AutoBoxSets5.png)
 
 ### Trouble Shooting
 
-If movies aren't added to the collection as expected, check that the **TmdbCollectionId** is still correct on the [The Movie DB website](https://www.themoviedb.org/) and that each movie in the collection has the same **TmdbCollectionId** set in it's own metadata.
+If movies aren't added to the collection as expected, check that the **TmdbCollectionId** ID for your media and make sure it is correct on [The Movie DB website](https://www.themoviedb.org/). Also check to make sure your media has the same **TmdbCollectionId** set in it's own metadata.
 
 Once this is confirmed, you can then manually force a refresh of the AutoBoxSets via the **Refresh Box Sets** button in the AutoBoxSets Plugin configuration page (see above).
