@@ -30,4 +30,4 @@ If movies are not added to the collection as expected, check that the **TmdbColl
 
 Once this is confirmed, you can then manually force a refresh of the AutoBoxSets via the **Refresh Box Sets** button in the AutoBoxSets Plugin configuration page (see above).
 
-
+Note: If you experience issues with AutoBoxSets after upgrading to Emby Server version 4 please make sure to run a full scan by clicking the button "Scan All Libraries" at the top of your list of Libraries when access from the Library menu option.
