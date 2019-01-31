@@ -7,6 +7,7 @@
 * [Movie naming](Movie-naming)
 * [TV naming](TV-naming)
 * [Music naming](Music-naming)
+* [Audio Book naming](Audio-Book-naming)
 * [Book naming](Book-naming)
 * [3D videos](3D-videos)
 * [Excluding files](Excluding-files-&-folders)
