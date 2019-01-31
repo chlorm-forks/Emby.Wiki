@@ -81,18 +81,3 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
        backdrop3.ext
 
 ```
-
-
-## Audio Books
-
-To add audio books, setup a library with the type "Audio Books". The naming conventions for audio books are very similar to [music](Music-naming).
-
-To identify the artists and books of music videos, use the [metadata manager](Metadata-manager). Simply edit a music video:
-
-![](images/server/musicvideos1.png)
-
-Then enter the artist(s) and/or album:
-
-![](images/server/musicvideos2.png)
-
-Once complete, the artist and album pages will display links to the music videos.
