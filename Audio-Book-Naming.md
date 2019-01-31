@@ -73,8 +73,8 @@ Several image types support multiple file names. They are listed in the order th
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
 ```
- \Music
-    \Author Name
+ \AudioBook
+    \Author
        backdrop.ext
        backdrop1.ext
        backdrop2.ext
