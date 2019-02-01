@@ -27,37 +27,6 @@ Or even a flat library of song files:
 
 Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information. 
 
-## Multi-Disc Albums
-
-Albums can have disc sub-folders using any of the following folder names, where X represents the disc number:
- 
-- Disc X
-- Disk X
-- CD X
-- Disc-X
-- Disk-X
-- CD-X
-- DiscX
-- DiskX
-- CDX
-- VolX
-- Vol-X
-- VolumeX
-- Volume-X
-
-For example:
-
-```
- \Music
-    \Artist Name
-       \Album Name
-         \Disc 1
-            1- Song.mp3
-            2- Song.mp3
-         \Disc 2
-            1- Song.mp3
-            2- Song.mp3
-```
 
 ## Music Images
 
