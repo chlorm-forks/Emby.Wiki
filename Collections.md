@@ -3,13 +3,15 @@ Collections for Movies can automated by use of the [AutoBoxSets](AutoBoxSets) Pl
 * Back to the Future II
 * Back to the Future III
 
+and
+
 * The Terminator
 * Terminator 2: Judgment Day
 * Terminator 3: Rise of the Machines
 * Terminator Salvation
 * Terminator Genisys
 
-and create "Box Set" collections for them automatically.  It's highly advised to use the plug for this type of grouping sets.  You can also manually create collections based on any criteria you wish manually.  The rest of this article will cover the manual process.
+and create "Box Set" collections for them automatically like Back to the Future Collection & The Terminator Collection.  It's highly advised to use the plug for this type of grouping sets.  You can also manually create collections based on any criteria you wish manually.  The rest of this article will cover the manual process.
 
 Collections are generally used to group movies together but can also be used for TV Series and other library content.
 
