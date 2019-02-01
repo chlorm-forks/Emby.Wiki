@@ -79,38 +79,6 @@ We could add additional images if needed but since we only require one image for
 
 We now have a completed manual collection that we have edited.  As you can see in the picture and from the edit metadata menu there is additional information you can edit such as ratings, year, genres and other information.
 
-## Browsing Collections
-
-Collections are typically used for movies, and Emby apps have sections for Collections as part of their Movie views. No additional configuration is required to enable his.
-
-If you would like to your Emby library to display a dedicated Collections menu, this can be enabled in server display settings.To access server display settings, open the server dashboard, then navigate to **Library** -> **Display**.
-
-Then enable the option to display a Collections view:
-
-![collections6.png](images/server/collections6.png)
-
-Additionally if you'd like movies to be automatically grouped into their Collections when browsing your movie list, this can be enabled in server display settings.
-
-Then enable the option to group movies into Collections:
-
-![collections7.png](images/server/collections7.png)
-
-As an example, suppose you have a Star Wars Collection, and you have all 7 Star Wars movies. When browsing your movie list, by default you'll see all 7 titles. If instead you'd just like to see the Collection in place of all 7 movies, this can be enabled using the collection grouping setting.
-
-## Adding Items to a Collection
-
-To add individual items to a collection, use the method discussed above. If you'd like to add multiple items at once, you can do this with the multi-select tool.
-
-To use the multi-select tool, simply click and hold on any poster (or tap and hold). When the multi-select menu appears, use the checkboxes to select the items you'd like to add.
-
-![collections3.png](images/server/collections3.png)
-
-Finally, select to "Add to Collection" within the mutli-select action menu.
-
-![collections4.png](images/server/collections4.png)
-
-**Tip**: The multi-select tool can also be used within search results.
-
 ## Removing Items from a Collection
 
 To remove an item from a collection, first browse to the detail screen for that collection. Each item in the collection will have a 3-dot menu. 
