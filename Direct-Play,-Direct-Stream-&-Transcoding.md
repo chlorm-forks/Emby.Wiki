@@ -8,7 +8,7 @@ Media file is used AS IS without any modification.  It can be sent from the Emby
 * Encoded with a compatible bit rate for the client
 * Has a resolution compatible with the client
 
-## Direct Stream
+## Direct Stream (transmuxing)
 The Media file is altered in in real-time while being delivered to the client.  This happens when the container of the media file is not compatible with the client, (.avi, .wmv, .ts, etc), but the resolution, bitrate, and codecs are supported.
 
 In this case the server extracts the internal tracks of the media file such as the video, audio & subtitle tracks and rewrites the file in real-time to a compatible container format the client does support.
