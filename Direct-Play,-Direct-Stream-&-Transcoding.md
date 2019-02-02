@@ -1,22 +1,22 @@
 Emby can presently deliver your media in one of three ways:
 
 ## Direct Play
-Media file is used AS IS without any modification.  It can be sent from the Emby server or (some clients) allowed to be played back off the file system. The media fits all the criteria needed by the client including:
+Media file is used AS IS without any modification.  It can be sent from the Emby server or (some clients) allowed to be played directly from the file system. The media fits all the criteria needed by the client including:
 
 * Stored in a compatible file container playable by the client
 * Encoded with compatible codecs for the client
-* Encoded in a compatible bitrate set by the client
-* Has a compatible resolution for the client
+* Encoded with a compatible bit rate for the client
+* Has a resolution compatible with the client
 
 ## Direct Stream
-The Media file is changed while being delivered to the client.  This happens when the container of the media file is not compatible with the client, (.avi, .wmv, .ts, etc), but the resolution, bitrate, and codecs are supported.
+The Media file is altered in in real-time while being delivered to the client.  This happens when the container of the media file is not compatible with the client, (.avi, .wmv, .ts, etc), but the resolution, bitrate, and codecs are supported.
 
 In this case the server extracts the internal tracks of the media file such as the video, audio & subtitle tracks and rewrites the file in real-time to a compatible container format the client does support.
 
 Direct Streaming does not touch the video or audio tracks in anyway so there is no loss of quality.
 
 ## Transcoding
-Transcoding takes place when one or more tracks in the media file are not compatible with the client app.  This could be the video codec, audio codec, subtitle being used. The media file could be a higher resolution then requested by the client app or the bit rate of the original file could be higher then the client can presently use.
+Transcoding takes place when one or more tracks in the media file are not compatible with the client app.  This could be the video codec, audio codec, or subtitle being used. The media file could have a higher resolution then requested by the client app or the bit rate of the file could be higher then the client can presently use.
 
 Transcoding at a high level, is taking already encoded content; decoding it; and then altering it.  After altering, it is then reassembled/encoded back into a format compatible with the client app and the current settings it is using.
 
