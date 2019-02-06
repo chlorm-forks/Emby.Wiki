@@ -182,8 +182,6 @@ Examples:
 ```
 \Movies\Avatar (2009)\Avatar (2009)-cd1.mkv
 \Movies\Avatar (2009)\Avatar (2009)-cd2.mkv
-\Movies\Scarface (1983)\Disc 1\VIDEO_TS\VIDEO_TS.IFO
-\Movies\Scarface (1983)\Disc 2\VIDEO_TS\VIDEO_TS.IFO
 ```
 
 ## 3D videos
