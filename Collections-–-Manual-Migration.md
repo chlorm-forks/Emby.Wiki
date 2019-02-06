@@ -48,4 +48,4 @@ Save your changes in Notepad and repeat for the next collection you need to chan
 
 NOTE: Please make sure the paths you use exactly match the way you set your library up.  If for example you setup your library using: "D:\movies" but your current playlists have "\\server\movies" this will not work.  Make sure you are consistent and use either drive letters or UNC style paths for both the libraries and the collections.
 
-After you complete your editing of collections please run a full library.
+**After you complete your editing of collections please run a full library.**
