@@ -17,6 +17,7 @@
 * [Theme songs & videos](Theme-songs-&-videos)
 * [Trailers](Trailers)
 * [Identify](Identify)
+* [New Media Date Handling](New-Media-Date-Handling)
 
 ### Server
 
