@@ -92,6 +92,7 @@
 * [Dlna profiles](Dlna-profiles)
 
 ### Sync
+* [Sync Introduction](Sync-Introduction)
 * [Sync](Sync)
 * [Sync jobs](Sync-Jobs)
 * [Folder sync](Folder-Sync)
