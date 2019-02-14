@@ -10,7 +10,7 @@ This can be useful for example if you setup a new library or server pointing to 
 
 You can set this by selecting Library on the left hand administrator menu, then selecting the "Advanced" menu option on the header in the right side up top.
 
-![wizard1.png](images/server/wizard1.png)
+![library-advanced-file-date.png](images/server/library-advanced-file-date.png)
 
 Don't forget to click the "Save" button after making any changes to this setting.
 
