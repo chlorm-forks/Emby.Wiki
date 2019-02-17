@@ -3,7 +3,7 @@
 * [Quick start](Quick-start)
 * [System requirements](System-requirements)
 
-### Media Prep & organization
+### Media organization
 * [Movie naming](Movie-naming)
 * [TV naming](TV-naming)
 * [Music naming](Music-naming)
