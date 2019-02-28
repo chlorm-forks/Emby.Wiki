@@ -3,7 +3,7 @@ Older HDHomeRun tuners without support for DLNA are supported by Emby but requir
 The required steps are as follows:
 
 1) Download and install the latest Windows software.
-First [Silicon Dust Forum](https://forum.silicondust.com/forum/viewtopic.php?f=119&t=20613) and install the HDHomeRunm software directly on your Emby server.
+First [Silicon Dust Forum](https://forum.silicondust.com/forum/viewtopic.php?f=119&t=20613) and install the HDHomeRun software directly on your Emby server.
  
 2) Update Firmware
 Use it to update the FIRMWARE to the latest version for your device (use beta or release version, which ever is newest). <--This step is super important.
