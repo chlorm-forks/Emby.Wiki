@@ -7,7 +7,7 @@ If on Windows it can look something like:
 
 C:\Users\SomeUserNameHere\AppData\Roaming\MediaBrowser-Server\data\collections
 
-An easy way to find this folder is to go to your Web Dashboard and scroll down the right side until you get to the PATHS section which will look something like this:
+An easy way to find this folder on ANY OS Emby runs on is to go to your Web Dashboard and scroll down the right side until you get to the PATHS section which will look something like this:
 
 ![server-paths1.png](images/server/server-paths1.png)
 
