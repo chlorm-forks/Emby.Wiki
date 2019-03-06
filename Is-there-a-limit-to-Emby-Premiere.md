@@ -1,4 +1,4 @@
-All of the standard Emby Premiere membership options are designed for single-household use and carry with them a limit of 15 devices supported for Emby Premiere features.  
+All of the standard Emby Premiere membership options are designed for single-household use and carry with them a limit of 25 devices supported for Emby Premiere features.  
 
 In our experience over a number of years, this standard license is sufficient for 95%+ of our users.  If, however, you have a need to support more devices than this we do have several [extended device options](https://emby.media/premiere-ext.html) for you to choose from.
 
@@ -13,7 +13,7 @@ Important points to remember:
 
 ## So how do I determine if the limit will be okay for me?
 
-Look at the [Feature Matrix](Emby-Premiere-Feature-Matrix) and note the features you use that are NOT in the "Free" column.  Count the number of devices your users will use for just those features.  Even if this count is near the 15 limit, we suggest you just try the normal license for a month of typical usage by your users and see if it works for you (it does for almost everyone).  Your server will show if you are close to or over the limit.
+Look at the [Feature Matrix](Emby-Premiere-Feature-Matrix) and note the features you use that are NOT in the "Free" column.  Count the number of devices your users will use for just those features.  Even if this count is near the 25 limit, we suggest you just try the normal license for a month of typical usage by your users and see if it works for you (it does for almost everyone).  Your server will show if you are close to or over the limit.
 
 ## How long does a device count towards my limit?
 
