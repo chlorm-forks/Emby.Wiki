@@ -8,4 +8,4 @@ If your key says it is invalid or missing and you're sure you've entered it prop
 
 4. Disable or remove any browser add-ins.  Some security add-ins (like Privacy Badger) can block our ability to validate the key
 
-If all of the above failed, please post [on the forums](https://emby.media/community/index.php?/forum/157-emby-premiere-support/) and include the [server log](https://emby.media/community/index.php?/topic/739-how-to-report-a-problem/) from when you performed the steps in (2.)
+If all of the above failed, please send an email to [billingsupport@emby.media](mailto:billingsupport@emby.media) and include the [server log](https://emby.media/community/index.php?/topic/739-how-to-report-a-problem/) from when you performed the steps in (2.)
