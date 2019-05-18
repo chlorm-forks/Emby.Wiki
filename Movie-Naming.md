@@ -46,7 +46,9 @@ Multiple versions of the same content can be stored in a single movie folder.
     /300 (2006) - 3D.hsbs.mp4
 ```
 
-Each version must begin with the folder name, followed by " - " or brackets " [720p] ". If this requirement is not met, they will be treated as separate videos. The text following the dash can be anything you want and will be what you see when Emby apps give you the option to select a specific version.
+Each version must begin with the folder name, followed by " - ". 
+
+If using the dash method anything following the dash will be what you see in the Emby client app.
 
 **Note**: The above example includes a 3D version, which is discussed in the [3D Video](3D-Videos) naming guide.
 
@@ -180,8 +182,6 @@ Examples:
 ```
 \Movies\Avatar (2009)\Avatar (2009)-cd1.mkv
 \Movies\Avatar (2009)\Avatar (2009)-cd2.mkv
-\Movies\Scarface (1983)\Disc 1\VIDEO_TS\VIDEO_TS.IFO
-\Movies\Scarface (1983)\Disc 2\VIDEO_TS\VIDEO_TS.IFO
 ```
 
 ## 3D videos

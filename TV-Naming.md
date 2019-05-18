@@ -91,6 +91,8 @@ Common for long-running daily shows, you can also use the date the episode aired
 
 The following conventions are supported:
 
+* show name - S01E01 - Episode Name 1.ext
+* show name - S01E01 - Episode Name 2.ext
 * 01x02x03 episode name.ext
 * S01x02x03 episode name.ext
 * S01E02E03 episode name.ext

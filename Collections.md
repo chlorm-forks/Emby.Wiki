@@ -1,4 +1,19 @@
-Collections are personalized groupings of library content. Collections are generally used to group movies together but can also be used for TV Series and other library content.
+Collections for Movies can automated by use of the [AutoBoxSets](AutoBoxSets) Plugin.  This plugin can take movies like:
+* Back to the Future
+* Back to the Future II
+* Back to the Future III
+
+and
+
+* The Terminator
+* Terminator 2: Judgment Day
+* Terminator 3: Rise of the Machines
+* Terminator Salvation
+* Terminator Genisys
+
+and create "Box Set" collections for them automatically like Back to the Future Collection & The Terminator Collection.  It's highly advised to use the plug for this type of grouping sets.  You can also manually create collections based on any criteria you wish manually.  The rest of this article will cover the manual process.
+
+Collections are generally used to group movies together but can also be used for TV Series and other library content.
 
 ## How to Create a Collection
 
@@ -12,43 +27,72 @@ To create a collection, start with a Movie, Series, or any other item in your Em
 
 When the context menu appears, select "Add to Collection". You'll then be presented with a popup where you can add the item to an existing collection, or create a new one.
 
-![](images/server/collections2.png)
+![collections2.png](images/server/collections2.png)
 
-When creating a new collection, you can also enable searching the internet for artwork related to that collection. TheMovieDb.Org has artwork for Movie Collections, and if you give your collections the same name, then Emby server can automatically download Collection artwork.
+The easiest way to automatically download image art and meta-data is to use the same name as the collection as found on TheMovieDb.Org.
 
-An example name of a Collection is "Star Wars Collection".
+You can check the name on TheMovieDb.Org by doing a “collection” search on their site like "Star Wars Collection".  In this case it would return 4 collections you can match against:
+* Star Wars Collection
+* Lego Star Wars Collection
+* Robot Chicken: Star Wars Collection
+* Star Wars: The Ewok Adventures Collection
 
-## Browsing Collections
+Just choose the proper collection name from the returned results.
 
-Collections are typically used for movies, and Emby apps have sections for Collections as part of their Movie views. No additional configuration is required to enable his.
+As mentioned you can add several movies at a time to a collection and also use collection names that aren’t on TheMovieDb.Org.  Here is an example of a collection useful for grouping movies to a particular artist such as Charlie Chaplin.
 
-If you would like to your Emby library to display a dedicated Collections menu, this can be enabled in server display settings.To access server display settings, open the server dashboard, then navigate to **Library** -> **Display**.
+First we long press on the first poster we wish to add until we get this
 
-Then enable the option to display a Collections view:
+![collections-multi1.png](images/server/collections-multi1.png)
 
-![collections6.png](images/server/collections6.png)
+Next we click the top left box to select additional movies and then we click the 3 dot menu top right.
 
-Additionally if you'd like movies to be automatically grouped into their Collections when browsing your movie list, this can be enabled in server display settings.
+![collections-multi2.png](images/server/collections-multi2.png)
 
-Then enable the option to group movies into Collections:
+We fill in the proper information and click OK to create a new collection.
 
-![collections7.png](images/server/collections7.png)
+![collections-multi3.png](images/server/collections-multi3.png)
 
-As an example, suppose you have a Star Wars Collection, and you have all 7 Star Wars movies. When browsing your movie list, by default you'll see all 7 titles. If instead you'd just like to see the Collection in place of all 7 movies, this can be enabled using the collection grouping setting.
+We now have a collection added for Charlie Chaplin without poster art or meta-data. 
 
-## Adding Items to a Collection
+![collections-multi4.png](images/server/collections-multi4.png)
 
-To add individual items to a collection, use the method discussed above. If you'd like to add multiple items at once, you can do this with the multi-select tool.
+Next, we can add our own information by editing the collection.
+First we can edit the text that shows up for the collection.  We do this by clicking the 3 dot menu and choosing “Edit metadata” from the popup menu.  We then scroll down and fill in our description in the “Overview” field and then we click Save.
 
-To use the multi-select tool, simply click and hold on any poster (or tap and hold). When the multi-select menu appears, use the checkboxes to select the items you'd like to add.
+![collections-multi5.png](images/server/collections-multi5.png)
 
-![collections3.png](images/server/collections3.png)
+We manually add cover art doing a similar process.  We click the 3 dot menu and select “Edit images" from the popup menu.
 
-Finally, select to "Add to Collection" within the mutli-select action menu.
+![collections-multi6.png](images/server/collections-multi6.png)
 
-![collections4.png](images/server/collections4.png)
+We now click the PLUS sign above to arrive at this screen
 
-**Tip**: The multi-select tool can also be used within search results.
+![collections-multi7.png](images/server/collections-multi7.png)
+
+From here you have a couple of choices.  You can drag and drop an image into the dashed box or you can click the Browse button to navigate to a local image on your computer.  Besides navigating and selecting local files there is a neat trick you can use to automatically download internet artwork.
+
+If you open a new tab in your browser you can do a Google Image search for Charlie Chaplin.  Once you find an image that interests you right click the artwork and click the “Copy image address” option.
+
+![collections-multi8.png](images/server/collections-multi8.png)
+
+Now that we are back to our Emby tab we click the Browse button which will open a dialog box (on Windows).  We then RIGHT CLICK the file name field to paste the location we just copied from the Internet previously into this field. 
+
+![collections-multi9.png](images/server/collections-multi9.png)
+
+After pasting in the link click the Windows Open button and Emby will import the image.
+
+![collections-multi10.png](images/server/collections-multi10.png)
+
+We can now see the image has been imported into the Emby dialog and we are ready to upload it by clicking the Upload button.  It will now be added to the server.
+
+![collections-multi11.png](images/server/collections-multi11.png)
+
+We could add additional images if needed but since we only require one image for our needs we will click the left arrow at the top of the dialog.
+
+![collections-multi12.png](images/server/collections-multi12.png)
+
+We now have a completed manual collection that we have edited.  As you can see in the picture and from the edit metadata menu there is additional information you can edit such as ratings, year, genres and other information.
 
 ## Removing Items from a Collection
 

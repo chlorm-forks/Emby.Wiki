@@ -7,7 +7,7 @@ If on Windows it can look something like:
 
 C:\Users\SomeUserNameHere\AppData\Roaming\MediaBrowser-Server\data\collections
 
-An easy way to find this folder is to go to your Web Dashboard and scroll down the right side until you get to the PATHS section which will look something like this:
+An easy way to find this folder on ANY OS Emby runs on is to go to your Web Dashboard and scroll down the right side until you get to the PATHS section which will look something like this:
 
 ![server-paths1.png](images/server/server-paths1.png)
 
@@ -48,4 +48,4 @@ Save your changes in Notepad and repeat for the next collection you need to chan
 
 NOTE: Please make sure the paths you use exactly match the way you set your library up.  If for example you setup your library using: "D:\movies" but your current playlists have "\\server\movies" this will not work.  Make sure you are consistent and use either drive letters or UNC style paths for both the libraries and the collections.
 
-After you complete your editing of collections please run a full library.
+**When you are finished editing your collections, please run a library update by clicking the "Scan All Libraries" button at the top of the Library menu page.**

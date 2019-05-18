@@ -1,3 +1,5 @@
+Requires Android TV 5.1 on higher OS.
+
 Emby for Android TV can be installed from the App store on your Android TV device (Google Nexus Player, Nvidia Shield, Sony Android TV, etc.) or you can push it to your device from the [Google Play Store](https://play.google.com/store/apps/details?id=tv.emby.embyatv).
 
 

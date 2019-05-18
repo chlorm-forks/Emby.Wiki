@@ -11,6 +11,8 @@ Cloud Sync is currently available for:
 * Drop box
 * [Google Drive](Google-Drive)
 
+Note: Cloud Sync does not move content from your local server to the cloud, nor add content from the cloud to Emby.  All media must originate and be part of the Emby Server media collection locally.
+
 ## Folder Sync
 
 Folder sync allows you to copy content to folders and external hard drives, for backup as well as archiving in multiple resolutions. 

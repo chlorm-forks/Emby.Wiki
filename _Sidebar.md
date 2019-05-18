@@ -17,6 +17,7 @@
 * [Theme songs & videos](Theme-songs-&-videos)
 * [Trailers](Trailers)
 * [Identify](Identify)
+* [New Media Date Handling](New-Media-Date-Handling)
 
 ### Server
 
@@ -92,6 +93,7 @@
 * [Dlna profiles](Dlna-profiles)
 
 ### Sync
+* [Sync Introduction](Sync-Introduction)
 * [Sync](Sync)
 * [Sync jobs](Sync-Jobs)
 * [Folder sync](Folder-Sync)

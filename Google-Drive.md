@@ -1,36 +1,96 @@
-Cloud sync allows you to copy content to cloud storage accounts, for backup as well as archiving in multiple resolutions.
+To install Google Drive, click the Plugins menu option on the left from your web Dashboard.  Then click the Catalog option up top on the right side.  Scroll down until you find.
 
-When content is archived in multiple resolutions, Emby apps will automatically choose the version that is most efficient for them. This will help relieve stress on your internet connection as well as your server's CPU. Apps will browse the content through your Emby Server as normal, but will stream from the cloud during playback.
+![googledrive1.png](images/plugins/googledrive1.png)
 
-## Installation
+You will be prompted to restart your Emby Server.  Please do this, then after restart navigate back to Plugins and you should see the plugin installed.
 
-To install folder sync, open the **Emby Server Dashboard** and navigate to **Sync** -> **Services**. 
+Click on the Google Drive image to bring up the popup menu
 
-Click on Google Drive underneath **Available Services**.
+![googledrive1b.png](images/plugins/googledrive1b.png)
 
-![](images/plugins/googledrive1.png)
+Choose the “Settings” option and you will be in the Google Drive Settings menu
 
-Then proceed to install it on the installation page.
+![googledrive1c.png](images/plugins/googledrive1c.png)
 
-## Configuration
+Click the “Create a Google Drive Client Id and Secret” link.  You will then get a screen with instructions
 
-To configure Google Drive, open the **Emby Server Dashboard** and navigate to **Sync** -> **Services**.  Click on Google Drive underneath **Installed Services**. 
+![googledrive1d.png](images/plugins/googledrive1d.png)
 
-Configuring Google Drive is a two step process. 
+Click the “Open Google Drive” link at the top which will open a NEW TAB.  Refer to the instructions above if needed.
 
-### Create a Client Id and Secret
+![googledrive1e.png](images/plugins/googledrive1e.png)
 
-First you'll need to create a client Id and Secret. To do this, click on the link titled "Create a Google Drive Client Id and Secret". Follow the instructions in the popup message.
+Here we create a new project, select “Create a project” and then click the continue button.
 
-### Add Google Drive Accounts
+![googledrive1f.png](images/plugins/googledrive1f.png)
 
-After you're configured the Client Id and Secret, you'll need to add one or more Google Drive accounts. To do this, click the + button next to Google Drive Accounts. You'll then be guided through the process of adding a Google Drive account.
+Click the “Go to credentials” button above. You’ll be met with a wizard that trys to determine what type of credentials you’ll need.  Just ignore this and click the “Credentials” menu on the left.
 
-## Ready to Sync
+Click the “OAuth consent screen” option in the middle
 
-Once a Google Drive account has been added, it will then show as as an available destination when creating sync jobs:
+Type “Emby” for the application name
 
-![](images/plugins/foldersync3.png) 
+![googledrive1g.png](images/plugins/googledrive1g.png)
+
+Scroll down to the bottom of the page and click the “Save” button.
+
+You should now be at this screen.
+
+![googledrive1h.png](images/plugins/googledrive1h.png)
+
+Click the “Create credentials” button
+
+Select the “OAuth client ID” option
+
+![googledrive1i.png](images/plugins/googledrive1i.png)
+
+Click “Create credentials
+
+![googledrive1j.png](images/plugins/googledrive1j.png)
+
+Select applicate type of “Other” and name this “Emby”.  Press the “Create” button.
+
+You should now have your Client ID & client secret codes.
+
+![googledrive1k.png](images/plugins/googledrive1k.png)
+
+Copy these to notepad or other program for safe keeping.  You will need this again soon.
+Now switch back to the Emby tab and click the “Close” button.
+
+You can now paste the client ID and client secret codes into this dialog.
+
+![googledrive1l.png](images/plugins/googledrive1l.png)
+
+Click the save button to save your Client ID and Client Secret.
+
+Now click the +Add button next to Google Drive Accounts
+
+![googledrive1m.png](images/plugins/googledrive1m.png)
+
+Type in “Emby” as the display name and click the “Grant Access” button.
+
+You may then be prompted with a typical Google Login page.
+
+Select your username and login if needed.  You should then be at this screen.
+
+![googledrive1n.png](images/plugins/googledrive1n.png)
+
+Click the “Allow” button.
+
+![googledrive1o.png](images/plugins/googledrive1o.png)
+
+Click the little box to the right to copy this auth code.
+
+Switch tabs back to the Emby tab in your browser.
+
+Paste the code into the code box
+
+![googledrive1p.png](images/plugins/googledrive1p.png)
+
+Click the “Save” button.
+
+Congratulations, you have now setup Google Drive to work with Emby Cloud Sync!
+
 
 ## Playback
 
