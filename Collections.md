@@ -16,17 +16,9 @@ When the context menu appears, select "Add to Collection". You'll then be presen
 
 ![collections2.png](images/server/collections2.png)
 
-The easiest way to automatically download image art and meta-data is to use the same name as the collection as found on TheMovieDb.Org.
 
-You can check the name on TheMovieDb.Org by doing a “collection” search on their site like "Star Wars Collection".  In this case it would return 4 collections you can match against:
-* Star Wars Collection
-* Lego Star Wars Collection
-* Robot Chicken: Star Wars Collection
-* Star Wars: The Ewok Adventures Collection
 
-Just choose the proper collection name from the returned results.
-
-As mentioned you can add several movies at a time to a collection and also use collection names that aren’t on TheMovieDb.Org.  Here is an example of a collection useful for grouping movies to a particular artist such as Charlie Chaplin.
+Here is an example of a collection useful for grouping movies to a particular artist such as Charlie Chaplin.
 
 First we long press on the first poster we wish to add until we get this
 
@@ -93,3 +85,12 @@ NOTE: It's important to understand that collections are bound to the location of
 * [Collections – Manual Migration](Collections-–-Manual-Migration)
 
 Collections for Movies can automated by use of the [AutoBoxSets](AutoBoxSets) Plugin. 
+
+## Tips
+The easiest way to automatically download image art and meta-data is to use the same name as the collection as found on TheMovieDb.Org.
+
+You can check the name on TheMovieDb.Org by doing a “collection” search on their site like "Star Wars Collection".  In this case it would return 4 collections you can match against:
+* Star Wars Collection
+* Lego Star Wars Collection
+* Robot Chicken: Star Wars Collection
+* Star Wars: The Ewok Adventures Collection
