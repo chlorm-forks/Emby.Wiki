@@ -36,8 +36,7 @@ We now have a collection added for Charlie Chaplin without poster art or meta-da
 
 ![collections-multi4.png](images/server/collections-multi4.png)
 
-Next, we can add our own information by editing the collection.
-First we can edit the text that shows up for the collection.  We do this by clicking the 3 dot menu and choosing “Edit metadata” from the popup menu.  We then scroll down and fill in our description in the “Overview” field and then we click Save.
+We can now edit the information shown for the collection by clicking the 3 dot menu and choosing “Edit metadata” from the popup menu as shown below. When finished remember to click Save.
 
 ![collections-multi5.png](images/server/collections-multi5.png)
 
