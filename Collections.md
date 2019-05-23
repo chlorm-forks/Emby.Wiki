@@ -1,4 +1,4 @@
-Collections are simply a grouping of like content.  You could for example have a collection of James Bond Movies, a set of movies of similar title like "Back to the Future" or a collection of title related to a director, actor or even awards.
+Collections are simply a grouping of like content.  You could for example have a collection of James Bond Movies, a set of similar title like "Back to the Future" or a collection of title related to a director, actor or even awards.
 
 Collections are generally used to group movies together but can also be used for TV Series and other library content.
 
