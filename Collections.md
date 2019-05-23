@@ -2,7 +2,7 @@ Collections are simply a grouping of like content.  You could for example have a
 
 Collections are generally used to group movies together but can be used for TV Series and other library content as well.
 
-## How to Create a Collection
+## How to Create a Manual Collection
 
 To create a collection in the web interface, start with a Movie, Series, or other item in your Emby library. Open the context menu for that item using one of the following methods:
 
@@ -73,10 +73,12 @@ To remove an item, click the 3-dot menu, then select "Remove from Collection".
 NOTE: It's important to understand that collections are bound to the location of the media at the time the collection is created.  If you move any file that is part of a collection or change a library type from drive letter to UNC or vice versa this will break the collection.  You can manually edit or migrate your collections using the following advanced topic.
 * [Collections – Manual Migration](Collections-–-Manual-Migration)
 
-Collections for Movies can automated by use of the [AutoBoxSets](AutoBoxSets) Plugin. 
+## How to Create Collection Automatically
+Collections for Movies can automated by use of the [AutoBoxSets](AutoBoxSets) Plugin. This plugin will create collections based on "boxed sets" such as a "Back to the Future" or "Terminator" collection.
 
 ## Tips
-The easiest way to automatically download image art and meta-data is to use the same name as the collection as found on TheMovieDb.Org.
+### Naming your manual collections
+When creating a manual collection, you use a name as found on TheMovieDb.org.  This will make it easy for Emby to automatically download image art and meta-data for the new collection.
 
 You can check the name on TheMovieDb.Org by doing a “collection” search on their site like "Star Wars Collection".  In this case it would return 4 collections you can match against:
 * Star Wars Collection
@@ -84,6 +86,7 @@ You can check the name on TheMovieDb.Org by doing a “collection” search on t
 * Robot Chicken: Star Wars Collection
 * Star Wars: The Ewok Adventures Collection
 
+### Using artwork directly from the Internet
 Besides navigating and selecting local files there is a neat trick you can use to automatically download internet artwork.
 
 If you open a new tab in your browser you can do a Google Image search for Charlie Chaplin.  Once you find an image that interests you right click the artwork and click the “Copy image address” option.
