@@ -93,7 +93,7 @@ If you open a new tab in your browser you can do a Google Image search for Charl
 
 ![collections-multi8.png](images/server/collections-multi8.png)
 
-Now that we are back to our Emby tab we click the Browse button which will open a dialog box (on Windows).  We then RIGHT CLICK the file name field to paste the location we just copied from the Internet previously into this field. 
+Now instead of browsing a local file to upload to your server from the dialog box we paste the link as shown below.
 
 ![collections-multi9.png](images/server/collections-multi9.png)
 
