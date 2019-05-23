@@ -48,11 +48,7 @@ We now click the PLUS sign above to arrive at this screen
 
 ![collections-multi7.png](images/server/collections-multi7.png)
 
-From here you have a couple of choices.  You can drag and drop an image into the dashed box or you can click the Browse button to navigate to a local image on your computer.  Besides navigating and selecting local files there is a neat trick you can use to automatically download internet artwork.
-
-If you open a new tab in your browser you can do a Google Image search for Charlie Chaplin.  Once you find an image that interests you right click the artwork and click the “Copy image address” option.
-
-![collections-multi8.png](images/server/collections-multi8.png)
+From here you have a couple of choices.  You can drag and drop an image into the dashed box or you can click the Browse button to navigate to a local image on your computer.  
 
 Now that we are back to our Emby tab we click the Browse button which will open a dialog box (on Windows).  We then RIGHT CLICK the file name field to paste the location we just copied from the Internet previously into this field. 
 
@@ -93,3 +89,9 @@ You can check the name on TheMovieDb.Org by doing a “collection” search on t
 * Lego Star Wars Collection
 * Robot Chicken: Star Wars Collection
 * Star Wars: The Ewok Adventures Collection
+
+Besides navigating and selecting local files there is a neat trick you can use to automatically download internet artwork.
+
+If you open a new tab in your browser you can do a Google Image search for Charlie Chaplin.  Once you find an image that interests you right click the artwork and click the “Copy image address” option.
+
+![collections-multi8.png](images/server/collections-multi8.png)
