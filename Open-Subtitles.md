@@ -31,3 +31,7 @@ The second option will show any subtitle plugins you may have installed.  In thi
 ![OpenSubtitles6.png](images/server/OpenSubtitles6.png)
 
 The above picture shows several options available for you to configure. These should be self explanatory with possibly the exception of "Require a hash match".
+
+Subtitles will now be downloaded as needed when available, via the Download Subtitles [Scheduled Task](Scheduled-tasks).
+
+Note: Emby also supports other subtitle providers. You can always find the latest list in the [Plugins](Plugins) Catalog.
