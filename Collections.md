@@ -1,10 +1,10 @@
-Collections are simply a grouping of like content.  You could for example have a collection of James Bond Movies, a set of similar title like "Back to the Future" or a collection of title related to a director, actor or even awards.
+Collections are simply a grouping of like content.  You could for example have a collection of James Bond Movies, a set of similar titles like "Back to the Future" or a collection of titles related to a director, actor or even awards.
 
-Collections are generally used to group movies together but can also be used for TV Series and other library content.
+Collections are generally used to group movies together but can be used for TV Series and other library content as well.
 
 ## How to Create a Collection
 
-To create a collection, start with a Movie, Series, or any other item in your Emby library. Open the context menu for that item using one of the following methods:
+To create a collection in the web interface, start with a Movie, Series, or other item in your Emby library. Open the context menu for that item using one of the following methods:
 
 * Right click on the poster
 * Use the 3-Dot menu on the detail screen
