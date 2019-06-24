@@ -14,12 +14,11 @@
 * [Media stubs](Media-stubs)
 * [Strm files](Strm-files)
 * [Subtitles](Subtitles)
-* [Subtitles](Subtitles)
+* [Subtitle Downloads](Subtitle-Downloads)
 * [Theme songs & videos](Theme-songs-&-videos)
 * [Trailers](Trailers)
 * [Identify](Identify)
 * [New Media Date Handling](New-Media-Date-Handling)
-* [Subtitle Downloads](Subtitle Downloads)
 
 ### Server
 
