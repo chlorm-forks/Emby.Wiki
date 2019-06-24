@@ -18,6 +18,8 @@
 * [Trailers](Trailers)
 * [Identify](Identify)
 * [New Media Date Handling](New-Media-Date-Handling)
+* [Subtitle Downloads](Subtitle Downloads)
+ 
 
 ### Server
 
