@@ -14,7 +14,7 @@
 * [Media stubs](Media-stubs)
 * [Strm files](Strm-files)
 * [Subtitles](Subtitles)
-* [Subtitle Downloads](Subtitle-Downloads)
+* [Automatic Subtitle Downloads](Automatic-Subtitle-Downloads)
 * [Theme songs & videos](Theme-songs-&-videos)
 * [Trailers](Trailers)
 * [Identify](Identify)
