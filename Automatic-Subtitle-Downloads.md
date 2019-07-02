@@ -24,5 +24,6 @@ If subtitles are not automatically downloading you should check the options list
 
 There is no way for Emby to know what setting is best for YOUR ENVIRONMENT so you will need to test this setting and adjust as needed.
 
+You should also check the following link to see how to manage [Manual Subtitle Downloads](Manual-Subtitle-Downloads).
 ## Tips
-**Emby supports many subtitle providers including: Addic7ed, NapiSub, OpenSubtitles, Podnapisi & SubDb. You can find the latest list in the [Plugins](Plugins) Catalog.**
+Emby supports many subtitle providers including: Addic7ed, NapiSub, OpenSubtitles, Podnapisi & SubDb. You can find the latest list in the [Plugins](Plugins) Catalog.
