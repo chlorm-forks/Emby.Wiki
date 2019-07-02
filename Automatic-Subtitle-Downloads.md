@@ -17,6 +17,6 @@ The above picture shows several options available for you to configure. These sh
 Subtitles will now be downloaded as needed when available, via the Download Subtitles [Scheduled Task](Scheduled-tasks).
 
 ## Tips
-Emby supports other subtitle providers besides Open Subtitles. You can find the latest list in the [Plugins](Plugins) Catalog.
-
 When "Require a hash match" is not selected you will often download subtitles that are slightly off in timing.  There is NO WAY for Emby to know for example if you have opening credits or not or if the subtitle file was built with opening credits.  Typically timing issues are best fixed by manually downloading different subtitles and testing them.  There is no way for Emby to know what setting is best for YOUR ENVIRONMENT so you will need to test this setting and adjust as needed.
+
+**Emby supports many subtitle providers including: Addic7ed, NapiSub, OpenSubtitles, Podnapisi & SubDb. You can find the latest list in the [Plugins](Plugins) Catalog.**
