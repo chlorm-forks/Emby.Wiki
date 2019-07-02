@@ -18,6 +18,4 @@ After restarting your server, navigate back to the plugin section of the dashboa
 Simply fill in your Open Subtitles username and password that you have previously created at [opensubtitles.org](http://www.opensubtitles.org). If you are a Open Subtitle VIP member also make sure to click the VIP checkbox.  Click the Save button once complete
 ![OpenSubtitles4.png](images/server/OpenSubtitles4.png)
 
-Once you've installed OpenSubtitles refer to [Automatic Subtitle Downloads](Automatic-Subtitle-Downloads) to learn how to setup your libraries for automatic downloading.
-## Tips
-Emby supports other subtitle providers besides Open Subtitles. You can find the latest list in the [Plugins](Plugins) Catalog.
+Once you've installed OpenSubtitles refer to [Automatic Subtitle Downloads](Automatic-Subtitle-Downloads) to learn how to setup your libraries for automatic subtitle downloading.
