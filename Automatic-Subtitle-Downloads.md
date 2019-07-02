@@ -1,5 +1,8 @@
 Emby can automatically download subtitle files for your media.  There are multiple subtitle plugin that can be used.
 
+## Install a Subtitle Plugin
+Before being able to setup automatic downloading of subtitles you will need to setup a plugin such as [Open Subtitles](Open-Subtitles). Please make sure you have configured your plugin before continuing.
+
 ## Setup your libraries to download subtitles
 Once you've installed a subtitle plugin, restarted the server and configured the plugin you are ready to configure each of your libraries to use the plugin.
 
