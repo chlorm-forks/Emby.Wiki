@@ -1,0 +1,1 @@
+Manual Subtitle Downloads is coming soon.
