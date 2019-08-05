@@ -87,12 +87,24 @@ Common for long-running daily shows, you can also use the date the episode aired
 * anything_1996-11-14.ext
 * anything_14.11.1996.ext
 
+## Multi-Version Episode
+
+Multi-Version Episodes are best using the following format:
+
+* show name - S01E01 - Display Name 1.ext
+* show name - S01E01 - Display Name 2.ext
+
+For example:
+Star Trek, The Next Generation - S01E01 - Original Broadcast.mkv
+Star Trek, The Next Generation - S01E01 - Digital Remix.mkv
+
+anything following the "-" (dash) up to the file extension will be used in the drop down version selector in your Emby client. In this case the two versions show in the interface will be "Original Broadcast" & "Digital Remix".
+
+
 ## Multi-episode files
 
 The following conventions are supported:
 
-* show name - S01E01 - Episode Name 1.ext
-* show name - S01E01 - Episode Name 2.ext
 * 01x02x03 episode name.ext
 * S01x02x03 episode name.ext
 * S01E02E03 episode name.ext
