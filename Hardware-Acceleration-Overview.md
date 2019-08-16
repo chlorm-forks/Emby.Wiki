@@ -42,3 +42,7 @@ MediaCodec is Android's integrated API for video de- and endoding.
 
 - **OpenMax**  
 OpenMax is an API specification covering various aspects of media acceleration. On Android it is the standard API for codec implementations while applications are typically using MediaCodec
+
+- **Troubleshooting**  
+
+### I've enabled hardware acceleration but CPU usage is still very high when transcoding.
