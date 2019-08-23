@@ -1,33 +1,33 @@
-Cinema mode brings the theater experience straight to your living room with the ability to play trailers and custom intros before the main feature.
+Cinema Intros brings the theater experience straight to your living room with the ability to play trailers and custom intros before the main feature.
 
-Cinema mode is configured in the server dashboard by navigating to **Playback** -> **Cinema Mode**. By default it is disabled.
+Cinema Intros is configured in the server dashboard by navigating to **Playback** -> **Cinema Intros**. By default it is disabled.
 
-## Choosing when to enable Cinema Mode
+## Choosing when to enable Cinema Intros
 
-The configuration page allows you to choose the types of videos that will trigger cinema mode. Currently, Movies and Episodes are supported. A video is determined to be a Movie or Episode based upon the content type chosen when setting up the library.
+The configuration page allows you to choose the types of videos that will trigger cinema intros. Currently, Movies and Episodes are supported. A video is determined to be a Movie or Episode based upon the content type chosen when setting up the library.
 
 ![](images/server/cinemamode1.png)
 
 ## Internet Trailers
 
-A vast library of internet trailers are available for use with cinema mode. The categories available are movies coming soon to theaters, movies coming soon to Dvd, and movies coming soon to Netflix.
+A vast library of internet trailers are available for use with cinema intros. The categories available are movies coming soon to theaters, movies coming soon to Dvd, and movies coming soon to Netflix.
 
 ![](images/server/cinemamode3.png)
 
 This feature has two requirements:
 
 * An [active Emby Premiere subscription](http://emby.media/donate)
-* Installation of the [Trailer plugin](Plugins), either before or after enabling cinema mode.
+* Installation of the [Trailer plugin](Plugins), either before or after enabling cinema intros.
 
 ## Local Trailers
 
-If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode. See [trailers](Trailers) for more information.
+If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema intros. See [trailers](Trailers) for more information.
 
 ![](images/server/cinemamode2.png)
 
 ## Custom Intros
 
-In addition you can specify your own custom videos to be used with cinema mode. Simply create a folder containing the videos, and enter the path in the custom intro field:
+In addition you can specify your own custom videos to be used with cinema intros. Simply create a folder containing the videos, and enter the path in the custom intro field:
 
 ![](images/server/cinemamode5.png)
 
@@ -67,7 +67,7 @@ The unwatched setting will prevent trailers that you've already seen from being 
 
 ## User Control
 
-Once you've enabled cinema mode in the server dashboard, they'll be turned on for all users by default. Each user can opt-out of cinema mode individually by disabling it in their user profile settings.
+Once you've enabled cinema intros in the server dashboard, they'll be turned on for all users by default. Each user can opt-out of cinema intros individually by disabling it in their user profile settings.
 
 This is accessed by clicking the user icon in the top right hand corner of the web interface, then selecting **Preferences**-> **Profile**.
 
