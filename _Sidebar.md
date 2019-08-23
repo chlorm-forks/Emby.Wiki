@@ -32,7 +32,7 @@
 * [Auto-Organize](Auto-Organize)
 * [Camera upload](Camera-upload)
 * [Channels](Channels)
-* [Cinema mode](Cinema-Mode)
+* [Cinema Intros](Cinema-Mode)
 * [Collections](Collections)
 * [Devices](Devices)
 * [Hosting settings](Hosting-Settings)
