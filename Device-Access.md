@@ -4,4 +4,4 @@ To manage device access for a user, navigate to the server dashboard -> **Users*
 
 ![](images/server/users17.png)
 
-**Important notes about device control**: This only applies to devices that can be uniquely identified and will not prevent access from a browser. Also, filtering devices for a user will prevent them from being able to sign-in with a new device until it is enabled from this page.
+**Important notes about device control**: Filtering devices for a user will prevent them from being able to sign-in with a new device until it is enabled from this page.
