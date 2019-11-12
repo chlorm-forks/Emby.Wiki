@@ -22,8 +22,6 @@ Subtitles will now be downloaded as needed when available, via the Download Subt
 ## If Subtitles are not automatically downloading
 If subtitles are not automatically downloading you should check the options listed above.  For example "Require a hash match" requires your media file to exactly match (byte for byte) the source file of the subtitle.  This option when activated can greatly reduce your chances of downloading subtitles but will make sure the subtitle is "perfect" for you file.
 
-There is no way for Emby to know what setting is best for YOUR ENVIRONMENT so you will need to test this setting and adjust as needed.
-
 You should also check the following link to see how to manage [Manual Subtitle Downloads](Manual-Subtitle-Downloads).
 ## Tips
 Emby supports many subtitle providers including: Addic7ed, NapiSub, OpenSubtitles, Podnapisi & SubDb. You can find the latest list in the [Plugins](Plugins) Catalog.
