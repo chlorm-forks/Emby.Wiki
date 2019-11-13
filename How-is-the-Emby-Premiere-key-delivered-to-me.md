@@ -6,4 +6,4 @@ If you used an app to purchase your subscription, your key will still be sent to
  
 If you do not receive your key, check all of your spam traps as sometimes those think these automatic emails are spam.  You can cause the key to re-send with the "Forgot Key" feature on the same page of your server dashboard.
 
-If you still have trouble obtaining your key, please post a topic in the [Emby Premiere section](https://emby.media/community/index.php?/forum/157-emby-premiere-support/) of our community forum.
+If you still have trouble obtaining your key, please send an email to billingsupport@emby.media and we'll help you out. 
