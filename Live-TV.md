@@ -1,3 +1,10 @@
+## Introduction
+Emby provides a flexible and very powerful Live TV and DVR solution.  With Emby’s TV you will be able to stream Live or Recorded TV content to any device you have with an Emby client or web browser.
+
+You can use Emby to eliminate the need for cable STBs (Set Top Boxes) or you can eliminate your cable provider entirely by cutting the cord and switching to OTA (Over the Air) broadcasts for local channels.
+
+Emby provides free guide data (US, UK & Canada) right out of the box at no additional cost.
+
 ## Overview of Setup
 
 Setup of Live TV can be broken down into a few steps:
