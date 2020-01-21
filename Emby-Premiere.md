@@ -1,1 +1,1 @@
-Please see our new Knowledge Base: https://support.emby.media/en/support/solutions/articles/44001162223-emby-premiere
+Please see our new Knowledge Base: [Emby Premiere](https://support.emby.media/en/support/solutions/articles/44001162223-emby-premiere)
