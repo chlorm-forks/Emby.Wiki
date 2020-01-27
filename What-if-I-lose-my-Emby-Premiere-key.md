@@ -1,3 +1,1 @@
-Go to your Emby Server configuration and select Help->Emby Premiere and then expand the "Forgot Key" section.  Provide the email address you provided at purchase (the primary email on the PayPal account if you used PayPal) and it will be re-sent to you.
- 
-If you cannot remember the email or the email doesn't arrive properly (after checking spam traps), you can create a post in the [Emby Premiere section](https://emby.media/community/index.php?/forum/157-emby-premiere-support/) of the community forum for help.
+Please see our new Knowledge Base: [What if I Lose my Emby Premiere Key](https://support.emby.media/support/solutions/articles/44001173114-what-if-i-lose-my-emby-premiere-key)
