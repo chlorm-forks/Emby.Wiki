@@ -1,1 +1,1 @@
-Coming soon.
+Please see our new Knowledge Base: [Emby Support](https://support.emby.media/)
