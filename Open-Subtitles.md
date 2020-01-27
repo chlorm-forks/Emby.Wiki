@@ -1,1 +1,1 @@
-lease see our new Knowledge Base: [Open Subtitles](https://support.emby.media/support/solutions/articles/44001160043-open-subtitles)
+Please see our new Knowledge Base: [Open Subtitles](https://support.emby.media/support/solutions/articles/44001160043-open-subtitles)
