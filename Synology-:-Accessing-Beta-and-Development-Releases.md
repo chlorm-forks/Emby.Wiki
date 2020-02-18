@@ -15,11 +15,13 @@ Details:-
 ### Synology
 
 To access the beta channel, _**change**_ your Package Source to:-
+
 `https://synology.emby.media/?package_repository=64ad869c-e8a4-4a79-aca4-22fbf9c5b520`
 
 ### XPEnology
 
 To access the beta channel, _**change**_ your Package Source to:-
+
 `https://synology.emby.media/?package_repository=67f52575-ad3d-4d77-ace0-ac7bf3982a76`
 
 ## Notes
