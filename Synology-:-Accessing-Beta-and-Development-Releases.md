@@ -18,13 +18,13 @@ Details:-
 
 To access the beta channel, _**change**_ your Package Source to:-
 
-    `https://synology.emby.media/?package_repository=64ad869c-e8a4-4a79-aca4-22fbf9c5b520`
+`    https://synology.emby.media/?package_repository=64ad869c-e8a4-4a79-aca4-22fbf9c5b520`
 
 ### XPEnology
 
 To access the beta channel, _**change**_ your Package Source to:-
 
-`https://synology.emby.media/?package_repository=67f52575-ad3d-4d77-ace0-ac7bf3982a76`
+`    https://synology.emby.media/?package_repository=67f52575-ad3d-4d77-ace0-ac7bf3982a76`
 
 You can also make use of the processor optimised packages in the same way as you can for the stable release, for details please see the page [Custom-Package-Architectures-for-XPEnology](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Custom-Package-Architectures-for-XPEnology).
 
