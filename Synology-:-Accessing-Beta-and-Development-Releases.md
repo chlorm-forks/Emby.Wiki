@@ -24,6 +24,8 @@ To access the beta channel, _**change**_ your Package Source to:-
 
 `https://synology.emby.media/?package_repository=67f52575-ad3d-4d77-ace0-ac7bf3982a76`
 
+You can also make use of the processor optimised packages in the same way as you can for the stable release, for details please see the page [>> Custom-Package-Architectures-for-XPEnology <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Custom-Package-Architectures-for-XPEnology)
+
 ## Notes
 
 For those of you that are interested, the reason for not making the beta releases available via the default package source is as follows:-
