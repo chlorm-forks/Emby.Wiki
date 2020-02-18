@@ -6,7 +6,7 @@ __NOTE: Only install beta versions if you are participating in the development o
 
 Details:-
 
-* We currently have full Synology package support for beta releases of Emby Server, which are made available through a dedicated repository. The framework is in place to support development releases, but Mono development builds are not available at this time.
+* We currently have full Synology/XPEnology package support for beta releases of Emby Server, which are made available through a dedicated repository. The framework is in place to support development releases, but Mono development builds are not available at this time.
 
 * Once you have installed a beta release, you will need to wait for a stable release with a version number that is the same or higher than the beta you have installed, before you can switch back to a stable release.
 
