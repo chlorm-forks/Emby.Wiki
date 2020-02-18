@@ -12,6 +12,8 @@ Details:-
 
 * If you don't have the option "Yes, I want to see beta versions!" ticked, then you will need to do so at Package Center -> Settings -> Beta
 
+* Let me know how you get on, the Synology/XPEnology forum for testing is here : (https://emby.media/community/index.php?/forum/183-synology-xpenology/]https://emby.media/community/index.php?/forum/183-synology-xpenology/)
+
 ## Accessing the Beta Channel
 
 ### Synology
